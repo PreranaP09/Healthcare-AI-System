@@ -31,3 +31,5 @@ This system can assist hospitals and healthcare providers in:
 streamlit run app.py
 
 Watch Demo Here
+
+[![Watch the video](https://img.youtube.com/vi/ogucqEDEoZY/maxresdefault.jpg)](https://youtu.be/ogucqEDEoZY?si=0UxFAUHIs5fQHqhJ)
