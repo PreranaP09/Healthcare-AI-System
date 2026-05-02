@@ -1,0 +1,1237 @@
+Patient_ID,Age,Gender,BMI,Blood_Pressure,Cholesterol_Level,Glucose_Level,Smoking_Status,Alcohol_Intake,Physical_Activity,Family_History,Stress_Level,Existing_Conditions,Medication_Adherence,Disease_Risk_Score,Risk_Category
+1,69,O,33.6,210,242,103,,High,High,No,Low,,Average,0.455882193,Medium
+2,32,male,26.5,164,228,138,No,Moderate,Low,Yes,Medium,,Average,0.54309742,
+3,,F,,148,259,124,,High,Low,Yes,Low,Heart Disease,Average,0.538449116,
+4,78,F,21.6,110,251,79,Yes,Moderate,Medium,No,,,Average,0.345532203,Low
+5,38,male,19,143,255,111,Yes,,Medium,No,Medium,Diabetes,Good,0.511119716,Medium
+6,41,O,,164,196,,No,High,Low,No,Low,Hypertension,Poor,0.345227996,Low
+7,20,O,20.1,119,213,191,Yes,High,High,Yes,High,Tuberculosis,Good,0.499839316,Medium
+8,39,male,16.1,137,213,79,No,High,High,Yes,High,Tuberculosis,,0.259536923,Low
+9,70,male,29,124,236,171,No,High,High,,High,Malaria,Average,0.530309927,Medium
+10,19,F,29.3,175,156,197,No,Moderate,High,Yes,High,Heart Disease,Poor,0.528051892,Medium
+11,47,male,20.7,127,171,161,Yes,Moderate,Low,,Low,Tuberculosis,Poor,0.37566391,Low
+12,55,,26.2,120,230,182,No,High,Medium,No,High,Heart Disease,Good,0.575014144,Medium
+13,19,male,30,167,223,147,Yes,Moderate,Medium,No,Medium,Diabetes,Good,0.647896884,
+14,81,,26,113,287,154,Yes,High,High,No,High,Hypertension,Poor,0.615655376,Medium
+15,77,,19,138,284,99,,High,Low,No,,Hypertension,Good,0.40937221,Medium
+16,38,F,23.8,121,274,118,Yes,,Low,No,Medium,Tuberculosis,Average,0.498349858,Medium
+17,50,F,31.6,144,199,78,Yes,,High,,High,Tuberculosis,Average,0.614911329,Medium
+18,75,F,26.2,168,201,138,No,Moderate,High,Yes,High,Diabetes,,0.420507233,Medium
+19,39,male,27.7,147,150,127,Yes,High,High,,Low,Malaria,Good,0.472521295,Medium
+20,66,male,26.7,92,153,131,Yes,,Medium,No,Medium,Malaria,Average,0.283830767,Low
+21,76,male,20.7,169,294,121,No,Moderate,High,No,High,Malaria,,0.409746777,Medium
+22,59,male,21.9,158,281,109,No,,Medium,Yes,Low,Heart Disease,,0.476815657,Medium
+23,77,F,26.7,210,153,,Yes,,Low,,High,Malaria,Average,0.568243509,Medium
+24,32,O,29.1,99,150,119,No,,Low,No,High,Hypertension,Good,0.295525903,Low
+25,79,male,30.5,172,220,147,No,,Medium,No,High,Heart Disease,Good,0.761335568,High
+26,79,O,20.7,114,184,166,Yes,,Medium,Yes,Medium,,Good,0.562129325,Medium
+27,64,male,27.2,157,,112,Yes,Moderate,Medium,No,High,Hypertension,Poor,0.424656582,Medium
+28,79,male,30.9,,185,105,No,,Medium,Yes,Low,Hypertension,Average,0.517283572,
+29,68,O,,118,272,191,Yes,High,,Yes,,,Poor,0.663319654,Medium
+30,72,F,32.4,108,192,177,No,High,Low,No,High,Diabetes,,0.621883584,Medium
+31,81,male,33.2,132,176,,No,High,High,Yes,Low,Diabetes,Average,0.483869858,Medium
+32,20,male,38.1,155,181,164,Yes,,Medium,Yes,Low,,,0.721854522,High
+33,68,male,26.2,163,227,75,Yes,Moderate,High,,Medium,Heart Disease,Poor,0.452949781,Medium
+34,24,O,26.2,150,270,,No,High,High,No,Medium,Malaria,,0.495606266,Medium
+35,38,F,29.1,132,295,198,,,Low,Yes,Medium,Malaria,Average,,Medium
+36,56,O,29,114,165,140,No,High,High,No,Medium,Malaria,Average,0.263599464,Low
+37,35,O,30.6,109,248,90,No,High,Low,No,Low,Malaria,Good,0.492364667,Medium
+38,21,F,28.9,,196,161,Yes,Moderate,Medium,No,High,Malaria,Average,0.528426582,Medium
+39,77,O,24.5,172,180,196,No,,High,Yes,,,Poor,0.598821405,
+40,31,F,31.1,176,153,,Yes,Moderate,Medium,No,High,Diabetes,Poor,0.628358785,Medium
+41,26,male,19.6,113,166,125,Yes,,,Yes,,Heart Disease,Poor,0.460548959,Medium
+42,70,F,25,100,188,185,No,High,Medium,Yes,,Hypertension,Average,,Medium
+43,19,male,32.8,144,197,94,Yes,,Medium,Yes,Low,Malaria,Average,0.579335806,Medium
+44,77,O,18.7,117,188,74,Yes,,Low,Yes,Low,,Good,0.417094138,Medium
+45,88,O,21.6,158,281,,No,,Medium,No,High,,Good,,High
+46,61,male,28.4,152,179,90,Yes,High,,No,Medium,Heart Disease,Poor,0.397165301,Low
+47,25,O,27,148,,87,Yes,Moderate,Medium,Yes,Low,,Good,0.459145242,Medium
+48,,F,20.6,,215,126,No,High,High,No,,,Good,0.263975167,Low
+49,52,male,22.9,140,257,162,No,,Medium,No,Low,Hypertension,Poor,0.531438467,Medium
+50,53,O,19.1,,161,88,No,Moderate,Low,No,Medium,Malaria,Average,0.121533637,Low
+51,67,male,29.9,101,185,197,No,,High,Yes,,Heart Disease,Good,0.618237414,Medium
+52,21,F,23.7,139,167,166,,Moderate,,No,Medium,,Average,0.345649127,Low
+53,19,F,34,93,239,90,No,High,Low,Yes,Low,Diabetes,Poor,0.513152304,Medium
+54,,O,25.4,131,150,,No,Moderate,Medium,No,Low,,Poor,0.28731222,Low
+55,,,23.9,173,276,136,Yes,High,High,Yes,Medium,,Good,0.644881088,
+56,21,male,23.4,127,239,196,Yes,,High,Yes,Medium,,Poor,0.60426591,Medium
+57,71,F,23.8,114,236,124,No,Moderate,,Yes,High,Heart Disease,Poor,0.313101659,Low
+58,80,male,25.6,103,239,178,,,Medium,No,Medium,,Poor,0.528228988,Medium
+59,,male,37.6,164,283,167,,Moderate,High,Yes,Low,Diabetes,Good,,High
+60,61,F,23.3,121,219,,No,High,Low,No,Low,Heart Disease,Good,0.577517089,Medium
+61,51,O,23.5,,193,184,Yes,,,Yes,Medium,Diabetes,Good,0.609609642,Medium
+62,79,F,25.3,150,,186,No,Moderate,Low,No,High,Tuberculosis,,,Medium
+63,31,male,30.5,107,,156,Yes,High,Low,Yes,,,Average,0.661584726,Medium
+64,65,male,17.9,116,250,150,No,High,High,No,Low,Malaria,Poor,0.397003546,Low
+65,,,27.3,144,295,135,Yes,High,,Yes,Low,Malaria,Good,0.629529105,Medium
+66,89,O,20.9,143,244,88,,,High,,High,Heart Disease,Average,0.472651339,Medium
+67,79,O,,171,250,187,,,Low,Yes,Medium,Malaria,Average,,High
+68,,male,22.5,176,179,,No,Moderate,Medium,No,Low,Heart Disease,Good,0.333267245,Low
+69,70,male,,164,182,,Yes,Moderate,High,Yes,Low,,Average,0.425004285,Medium
+70,41,O,26.8,110,,128,Yes,,High,Yes,Low,Hypertension,Average,0.415381072,Medium
+71,43,F,26.8,133,267,,No,High,,Yes,Medium,Hypertension,Good,0.477161531,Medium
+72,77,male,22.1,94,243,142,No,Moderate,Medium,Yes,Medium,Diabetes,Average,,Medium
+73,58,male,21.8,176,286,86,Yes,,Low,No,High,,Average,0.552038582,Medium
+74,46,O,18.4,130,298,96,Yes,High,High,Yes,Low,Malaria,Good,,Medium
+75,32,F,,148,225,71,Yes,,Low,Yes,Low,,Average,0.485058416,Medium
+76,62,O,29.4,178,178,132,Yes,Moderate,High,No,High,Tuberculosis,Average,0.562999154,Medium
+77,,F,20.6,210,266,131,No,High,Medium,No,Low,Hypertension,Average,0.471569353,Medium
+78,88,F,22.3,163,164,,,High,Low,No,High,Malaria,Average,0.623059902,Medium
+79,26,F,24.7,111,151,88,Yes,,High,Yes,High,Hypertension,Good,0.319006428,Low
+80,18,,36.4,172,266,86,No,,High,No,Low,,Poor,0.564909912,Medium
+81,25,O,,154,,,Yes,High,High,No,Medium,Malaria,,0.46022826,Medium
+82,80,O,20.3,153,152,186,Yes,,,No,Medium,Diabetes,Average,0.546637417,Medium
+83,28,F,26.5,160,284,150,Yes,High,Low,Yes,Medium,,Good,0.759130028,High
+84,25,male,18.1,93,257,108,No,Moderate,High,,Medium,Diabetes,,0.311077356,Low
+85,52,male,28.6,154,244,105,No,,Low,Yes,,Malaria,Average,0.53099427,Medium
+86,52,O,33.4,104,271,98,,High,High,No,High,Hypertension,Poor,0.479715287,Medium
+87,50,male,33.4,165,160,120,Yes,High,Low,Yes,High,Tuberculosis,Average,0.747064992,High
+88,22,male,28.7,,217,83,No,,,,Low,Heart Disease,Good,0.360974989,Low
+89,58,F,22.1,175,272,138,Yes,,High,,Medium,Hypertension,Good,0.63882142,Medium
+90,45,male,18.5,136,262,,Yes,Moderate,High,No,High,Diabetes,Poor,0.429663418,Medium
+91,24,F,18,170,247,81,No,High,High,Yes,,,Good,0.412574904,Medium
+92,89,O,11,135,242,86,No,Moderate,High,No,Low,Malaria,Good,0.254373298,Low
+93,29,male,,103,171,99,No,Moderate,Medium,No,Medium,Hypertension,,0.324461197,Low
+94,51,O,24.5,139,276,157,,Moderate,High,Yes,Low,Tuberculosis,Poor,0.657328174,Medium
+95,50,O,29.5,109,283,,Yes,,High,No,High,Malaria,Good,0.615401737,Medium
+96,65,male,32.1,139,174,92,Yes,,,No,High,,,0.516361791,Medium
+97,40,male,25.5,122,234,198,Yes,,,No,,,Poor,0.573201576,Medium
+98,79,O,25.7,148,204,148,,,High,Yes,High,Malaria,Average,0.508320214,Medium
+99,54,male,22.7,132,293,101,Yes,Moderate,Low,No,Low,,Average,0.50237465,Medium
+100,61,F,23.3,168,244,78,,Moderate,Low,Yes,High,Heart Disease,Poor,0.506765855,Medium
+101,,F,28.6,101,291,84,No,High,Low,Yes,Medium,Diabetes,,0.396704394,Low
+102,82,male,24.1,129,268,96,No,Moderate,Low,No,High,,Poor,0.324638306,Low
+103,64,O,23.4,109,158,178,,High,Medium,No,Medium,Heart Disease,Average,0.509902923,
+104,20,male,,127,299,145,No,Moderate,,No,Medium,,Poor,0.404555742,Medium
+105,18,male,29.4,,191,134,No,Moderate,Low,No,Low,Heart Disease,Good,0.351618686,Low
+106,22,O,50,117,202,178,Yes,Moderate,High,Yes,Medium,Heart Disease,Good,0.47182834,Medium
+107,31,O,24.7,145,223,198,Yes,Moderate,Low,Yes,High,,Average,,Medium
+108,44,F,26.2,179,188,79,Yes,High,,No,High,,Good,0.515897665,Medium
+109,26,O,30.8,,271,116,,High,Low,Yes,Medium,Malaria,Poor,0.611221602,
+110,32,F,23.8,166,164,192,No,Moderate,High,,Low,Heart Disease,Average,0.489677897,Medium
+111,59,O,21.4,155,272,128,No,Moderate,High,No,Medium,Malaria,Good,0.454563544,Medium
+112,68,male,22.6,126,260,165,,,Medium,No,High,Diabetes,Good,0.680832319,
+113,80,F,30.3,138,280,172,,,High,No,High,Tuberculosis,Average,0.875201193,High
+114,69,F,35.2,155,,193,No,,High,Yes,Medium,Malaria,Good,0.860671351,High
+115,21,F,18.4,125,159,155,,,Low,Yes,Medium,Tuberculosis,,0.466985352,Medium
+116,40,male,19.5,143,,181,Yes,High,High,No,Medium,,Average,0.557580558,Medium
+117,32,,24.2,115,178,96,Yes,High,Low,No,High,Tuberculosis,Good,0.401613665,Medium
+118,60,male,25.6,164,184,,Yes,,Medium,Yes,High,Tuberculosis,Good,0.519234349,Medium
+119,46,male,28.9,,155,151,No,,High,Yes,High,Heart Disease,Good,0.531585629,Medium
+120,53,,20.5,210,,,Yes,,Low,Yes,Low,Malaria,Good,0.712998736,High
+121,30,,19.7,,260,123,No,High,High,No,High,Heart Disease,Average,0.338516748,Low
+122,49,,25.7,,187,,Yes,High,Low,Yes,High,Diabetes,Poor,0.467389552,Medium
+123,88,F,23.7,109,226,107,Yes,,Medium,No,,Hypertension,Poor,0.331138399,Low
+124,76,male,29.6,97,242,,No,,Low,No,Low,,Good,0.368728333,Low
+125,45,O,27.4,,296,151,Yes,High,High,Yes,Low,Heart Disease,Good,0.664925868,
+126,83,F,27.8,129,216,73,No,,Low,No,Low,Heart Disease,Poor,0.312860314,
+127,59,O,24.5,,285,92,Yes,,High,Yes,Low,Tuberculosis,Good,,Medium
+128,62,F,36.8,119,157,117,Yes,High,Medium,No,Low,,Poor,,Medium
+129,79,O,20.8,170,271,194,,High,Low,,Medium,Tuberculosis,,0.812903829,High
+130,74,male,,173,233,124,Yes,Moderate,,No,Medium,Malaria,Average,0.594491713,Medium
+131,23,male,18.7,144,281,137,Yes,Moderate,High,No,Medium,Heart Disease,Average,0.517532747,Medium
+132,45,male,19.6,105,234,157,No,,High,No,Medium,Heart Disease,Average,0.292633056,Low
+133,45,F,22,135,194,70,No,,,No,High,Tuberculosis,Average,0.274013478,Low
+134,61,O,33.1,151,285,164,Yes,,,Yes,Low,Heart Disease,,0.991776276,High
+135,47,male,,96,236,175,,High,Low,Yes,High,Malaria,Poor,0.511275952,Medium
+136,79,O,22,210,165,177,No,,Medium,No,Low,Hypertension,Good,0.582418283,Medium
+137,79,O,26.9,134,226,111,No,High,High,Yes,Low,,Poor,0.307608392,Low
+138,18,male,25.2,148,158,,Yes,,High,No,High,,Average,0.504197029,Medium
+139,44,male,22.5,145,209,193,Yes,Moderate,Medium,Yes,Medium,,Good,0.666395885,Medium
+140,79,O,18,137,227,172,No,,Medium,Yes,High,Hypertension,Good,0.600189348,
+141,20,male,32.2,116,226,143,Yes,High,Low,No,High,Heart Disease,Average,0.637639327,Medium
+142,87,male,26,142,220,177,,Moderate,Low,Yes,Low,Tuberculosis,,0.663700201,
+143,89,male,35.9,176,164,191,Yes,High,Low,,,,Average,0.968978581,High
+144,44,F,,177,220,86,,High,Low,Yes,Low,Heart Disease,Average,0.564343575,Medium
+145,26,O,27.8,162,,140,No,Moderate,Low,No,Medium,Hypertension,Average,0.536904255,Medium
+146,,O,22.8,124,171,131,Yes,,Low,Yes,,Malaria,Average,0.471622291,Medium
+147,54,F,19.5,140,262,,No,Moderate,,No,High,Hypertension,,0.419078662,Medium
+148,68,O,23.9,173,150,188,Yes,,,Yes,Medium,,Average,0.683661831,Medium
+149,61,male,19.4,126,159,114,Yes,,Medium,No,High,Heart Disease,Average,0.321299595,Low
+150,41,,28.3,170,,127,Yes,Moderate,High,Yes,High,,Good,0.712768038,High
+151,76,male,33.2,146,262,195,Yes,Moderate,High,,Low,Diabetes,Poor,,
+152,49,F,23.7,,,113,No,Moderate,Low,Yes,Medium,Malaria,Average,0.325408954,Low
+153,69,,29.7,168,161,84,Yes,Moderate,,No,Low,,Good,0.444034046,Medium
+154,79,O,21.6,109,238,147,Yes,,High,,Medium,Diabetes,Good,0.589784658,Medium
+155,75,O,23.5,,261,139,Yes,High,High,No,Low,Hypertension,Poor,0.473865236,Medium
+156,69,O,20.9,101,227,170,Yes,High,Medium,No,High,,Average,0.552157263,Medium
+157,29,F,14.3,,270,72,No,,High,No,Medium,,Average,0.21404431,Low
+158,,F,24.8,,172,155,Yes,High,High,No,Medium,Tuberculosis,Average,0.450618805,Medium
+159,,,25.6,153,283,,No,,Medium,Yes,Low,Malaria,Good,0.524675334,
+160,20,male,30.3,131,174,120,No,,High,Yes,Medium,Malaria,Average,0.516472662,Medium
+161,73,F,29,118,167,136,No,Moderate,Medium,Yes,,Hypertension,Average,0.370853345,Low
+162,76,O,29,108,290,145,Yes,Moderate,High,No,High,Tuberculosis,Average,0.627867916,Medium
+163,19,O,20.1,100,192,162,Yes,Moderate,,No,High,Diabetes,Average,0.385801269,Low
+164,19,,27.3,139,227,76,Yes,,High,No,Low,,Poor,0.351639837,Low
+165,71,F,50,,177,82,Yes,,High,No,Medium,Hypertension,Poor,0.497356118,Medium
+166,18,F,26.9,,295,189,No,High,Medium,No,Low,Malaria,Poor,0.536894858,Medium
+167,,male,34.1,123,208,135,No,High,High,Yes,High,,Average,0.528374279,Medium
+168,19,male,35.1,109,212,73,Yes,High,Medium,Yes,Medium,Hypertension,Average,0.570600274,Medium
+169,70,O,23.7,139,241,157,Yes,,Medium,Yes,High,Diabetes,Good,0.695340467,Medium
+170,61,F,21.5,177,205,,,High,High,No,Medium,Heart Disease,Good,0.517881491,Medium
+171,,male,21.2,99,260,121,Yes,,Low,,Medium,,,0.478225913,Medium
+172,,,17.4,121,286,138,Yes,High,High,No,Low,Malaria,Average,0.46788712,Medium
+173,,O,22.4,141,,90,Yes,Moderate,Low,No,,Heart Disease,Poor,0.40656177,Medium
+174,,male,31,,195,93,Yes,,Low,No,High,Hypertension,Poor,0.524516691,Medium
+175,72,male,14,173,216,73,No,Moderate,High,No,Medium,Hypertension,,0.230197014,Low
+176,73,male,19.8,92,285,72,,Moderate,Low,No,,Heart Disease,Average,0.243615135,
+177,34,O,24.4,126,155,137,No,Moderate,Medium,Yes,Low,,Poor,0.333176247,Low
+178,55,F,20.6,129,,170,No,,Medium,Yes,High,,Good,0.544412535,Medium
+179,41,male,22.4,161,243,,Yes,,Low,No,Medium,Tuberculosis,Good,,Medium
+180,86,O,22.4,,,104,,,Medium,,High,Diabetes,Poor,0.310267785,Low
+181,87,F,23.7,,174,125,Yes,,High,No,High,Tuberculosis,Good,,Medium
+182,28,O,21.4,112,297,,Yes,High,Medium,Yes,Medium,,Poor,0.596510105,
+183,,,20.9,100,267,109,Yes,,Low,Yes,High,Heart Disease,Poor,0.457130815,Medium
+184,76,O,29.7,,231,137,,Moderate,High,No,Medium,Diabetes,Good,0.47134096,Medium
+185,87,,30.2,97,260,115,Yes,,Medium,Yes,Low,Heart Disease,Good,0.583814567,Medium
+186,20,male,18.1,145,231,147,No,High,High,Yes,High,Tuberculosis,Good,0.430597226,Medium
+187,,F,11.2,149,215,75,,High,,Yes,Low,Hypertension,Good,0.430950715,Medium
+188,76,O,30.3,,194,86,,High,Medium,No,High,Heart Disease,Poor,0.379491964,Low
+189,53,O,,128,263,168,Yes,Moderate,High,Yes,High,Tuberculosis,Good,0.63392112,Medium
+190,36,F,26.1,117,212,150,No,,High,,Low,Tuberculosis,Good,0.411346789,Medium
+191,84,male,17.2,138,,71,Yes,,Medium,No,High,Tuberculosis,Average,0.328252986,Low
+192,36,male,31.5,125,263,,Yes,,High,No,High,Hypertension,Good,0.721625666,High
+193,37,,37.7,102,260,135,Yes,Moderate,,Yes,Low,,,0.708305282,High
+194,88,,25.9,,296,121,Yes,Moderate,Low,No,High,Hypertension,Poor,0.502886053,Medium
+195,69,O,,115,184,,No,High,Low,Yes,Medium,Diabetes,,0.512331763,Medium
+196,50,male,23.4,,202,91,Yes,High,Low,,High,Hypertension,Average,0.543957207,Medium
+197,57,F,28.9,93,175,180,No,,Low,No,High,,Good,,Medium
+198,56,male,27.8,,163,176,Yes,Moderate,Low,No,High,Hypertension,Good,0.723444305,High
+199,18,F,30,153,267,,No,Moderate,,Yes,Low,,,0.67228116,Medium
+200,28,F,21.9,127,194,138,Yes,,Medium,,Medium,Hypertension,,,Medium
+201,74,male,26.7,177,200,153,Yes,,Low,No,Medium,Diabetes,Good,0.759633183,High
+202,67,F,22.3,,268,172,No,High,High,Yes,High,Tuberculosis,Good,0.708971413,High
+203,40,F,19.7,,168,108,Yes,High,Medium,Yes,Low,Heart Disease,Average,0.358233729,Low
+204,48,O,24.8,91,231,82,Yes,,,Yes,Low,,Good,0.377307399,Low
+205,59,F,20.4,120,225,110,No,,Low,,Medium,Hypertension,Good,0.394605804,Low
+206,24,,30.9,100,241,126,Yes,,Low,Yes,Low,,Good,0.670207312,Medium
+207,33,F,20.7,135,182,81,No,High,High,Yes,High,Tuberculosis,Average,0.284789908,Low
+208,77,O,,151,296,82,Yes,,High,No,High,Heart Disease,Good,0.536042383,Medium
+209,19,male,22,158,177,189,No,Moderate,High,No,Low,,,0.403999288,Medium
+210,18,,26.4,153,272,166,No,Moderate,Medium,,High,Malaria,Poor,0.549306186,Medium
+211,65,,,,275,126,No,High,Low,No,Medium,Diabetes,Good,0.320602169,Low
+212,29,male,,129,186,109,No,High,High,No,High,Malaria,Average,0.287303793,Low
+213,86,O,27.4,113,248,187,Yes,Moderate,Low,Yes,Low,,Poor,0.745161551,High
+214,54,male,23.8,133,247,,Yes,High,High,No,Medium,Malaria,Average,0.575272965,Medium
+215,49,,,,276,197,No,Moderate,Low,No,High,Tuberculosis,Average,0.602323625,Medium
+216,26,male,22.9,151,229,104,Yes,Moderate,Medium,Yes,Medium,,Poor,,
+217,36,F,18.4,176,187,72,Yes,Moderate,Low,No,Low,Tuberculosis,Good,0.49460886,
+218,65,O,30.4,106,226,189,Yes,,High,No,High,Tuberculosis,Good,0.71617723,High
+219,20,O,28.7,154,275,74,No,,Low,Yes,High,Heart Disease,Average,0.502353235,Medium
+220,37,O,22.2,146,236,80,Yes,,Medium,No,Medium,,Poor,0.395137174,Low
+221,41,O,25.3,144,203,195,Yes,Moderate,Medium,No,High,Tuberculosis,Good,0.63885779,Medium
+222,71,F,30.2,,299,140,No,,Low,No,,Diabetes,Average,0.657454962,Medium
+223,50,O,22.7,,165,186,Yes,High,High,Yes,High,Diabetes,Poor,0.465309435,Medium
+224,41,F,23.5,98,177,175,No,High,Medium,Yes,High,Hypertension,Average,0.356402954,Low
+225,89,F,26.2,111,195,185,No,High,Medium,No,,Tuberculosis,Poor,0.444454447,Medium
+226,53,,22.7,102,,136,No,High,Low,No,,Tuberculosis,Good,0.352670333,Low
+227,,F,29.3,178,234,100,Yes,High,,Yes,Medium,Tuberculosis,Good,0.699766128,Medium
+228,42,male,24.2,137,175,144,Yes,Moderate,Medium,Yes,Low,Malaria,Average,0.454982173,Medium
+229,35,,21.1,107,234,140,No,High,,,Medium,Tuberculosis,,0.293856035,Low
+230,83,O,28,165,214,135,,,High,Yes,Medium,Tuberculosis,Good,0.509558083,Medium
+231,71,male,19.3,129,283,139,No,,High,No,Medium,,Poor,0.339067351,Low
+232,52,male,35.1,106,264,110,No,High,Low,No,Low,,Good,0.584777618,Medium
+233,,O,32.9,104,213,89,No,,Medium,Yes,Low,,Poor,,Medium
+234,58,O,27.6,104,236,108,,Moderate,Low,Yes,Low,Hypertension,Poor,0.378585242,Low
+235,50,O,27.1,168,,114,Yes,,Medium,No,High,Diabetes,Average,0.56654944,Medium
+236,85,male,26.9,152,245,139,No,,Medium,No,Medium,,Poor,0.457333047,Medium
+237,50,male,22.6,128,226,194,No,High,,Yes,Low,,Good,0.551190818,Medium
+238,31,,26.5,102,295,160,No,High,High,No,Medium,,Poor,0.370764243,Low
+239,,F,20.4,170,236,139,Yes,,Low,Yes,Low,Heart Disease,Poor,0.627676099,
+240,65,O,27.5,121,298,,Yes,,Low,Yes,Low,Heart Disease,Average,0.833576908,High
+241,37,F,29.3,98,206,153,Yes,,Medium,Yes,Low,,Good,0.562311966,
+242,,F,23.1,129,252,158,Yes,High,Low,Yes,Medium,Tuberculosis,,0.623467334,Medium
+243,24,O,22,109,240,148,,High,High,Yes,High,Hypertension,Good,0.409519361,Medium
+244,84,O,18.9,210,194,182,Yes,High,Low,No,Low,Hypertension,Poor,0.685490752,Medium
+245,34,O,,174,237,162,No,,Medium,Yes,Low,Hypertension,,0.768281695,High
+246,50,male,22.4,171,,141,No,High,High,Yes,Low,Malaria,Good,,Medium
+247,,,24,166,196,118,No,Moderate,High,Yes,High,Heart Disease,Poor,0.417650433,Medium
+248,76,male,26.5,169,284,121,No,,Medium,Yes,Medium,Tuberculosis,Average,0.534269139,Medium
+249,39,male,26.4,162,,102,No,High,Low,Yes,Medium,Heart Disease,Average,0.508197861,
+250,47,,28.7,152,233,,,,Medium,Yes,Medium,Hypertension,Poor,0.37270939,Low
+251,55,male,23.1,,240,183,Yes,Moderate,Low,Yes,Medium,Tuberculosis,,0.791543597,High
+252,68,,19.3,133,283,87,Yes,Moderate,Low,No,Low,Diabetes,Average,0.45105682,Medium
+253,71,F,18.4,127,240,187,Yes,,High,No,,,Average,0.607241041,Medium
+254,25,O,22.1,172,286,186,Yes,,Medium,No,,,Good,0.767972746,High
+255,44,male,,149,258,106,Yes,Moderate,High,No,High,Hypertension,Average,0.395662337,Low
+256,,male,23.5,160,206,133,No,,Medium,Yes,Medium,,Good,0.477109859,Medium
+257,38,O,31.5,137,,148,Yes,Moderate,Medium,No,High,Diabetes,Average,0.563656522,
+258,47,O,23.1,107,170,192,Yes,Moderate,High,Yes,Low,Tuberculosis,Good,,
+259,45,male,23.1,105,239,113,Yes,High,Medium,No,Low,Heart Disease,Poor,,Low
+260,81,F,24.9,144,189,151,No,,Medium,No,Medium,Hypertension,Poor,0.526229243,Medium
+261,86,F,23,128,261,156,No,,Low,Yes,,Heart Disease,Average,0.611032349,Medium
+262,,O,24.7,157,194,85,No,High,Medium,,Low,Hypertension,Good,0.44012946,Medium
+263,65,F,27.7,148,226,123,,Moderate,Medium,No,High,Malaria,Poor,0.521500438,Medium
+264,36,male,29.4,178,236,171,Yes,,High,,Low,,Poor,0.631583374,Medium
+265,21,O,30,151,,167,Yes,High,High,No,Medium,,,0.601760055,Medium
+266,52,,35.3,102,250,71,Yes,High,Medium,No,Medium,Heart Disease,Poor,0.5138942,Medium
+267,81,male,,170,266,163,Yes,,,Yes,Low,Diabetes,Average,0.811753489,High
+268,66,,36.2,95,241,128,No,,Low,,Medium,,Good,0.59036325,
+269,34,O,21.1,210,,138,Yes,Moderate,High,No,High,Hypertension,Poor,0.566370179,Medium
+270,61,O,35.5,166,177,188,,,Medium,No,High,Tuberculosis,Average,0.819843217,High
+271,47,F,23.1,149,174,161,Yes,,Medium,No,Low,,Poor,0.461174991,
+272,63,male,23.6,179,207,114,No,Moderate,Low,No,Low,Diabetes,Poor,0.440461245,Medium
+273,23,,,103,190,93,No,,Low,Yes,High,Diabetes,,0.274689928,Low
+274,54,male,,143,,160,No,High,,Yes,Medium,,Poor,0.650400602,Medium
+275,41,male,25.4,93,,163,No,Moderate,High,Yes,,,,0.358803702,Low
+276,63,O,,128,187,127,Yes,,Medium,Yes,,Tuberculosis,,0.492447548,Medium
+277,70,O,29.1,161,283,197,Yes,High,High,Yes,Medium,Heart Disease,Average,0.838852005,High
+278,77,F,,114,224,76,Yes,,Medium,No,Low,Diabetes,Average,0.29691775,Low
+279,80,F,28.3,166,291,116,No,High,High,Yes,Medium,Diabetes,Average,0.591157468,Medium
+280,49,O,32.6,121,215,122,Yes,,,Yes,Medium,,Poor,0.642146008,
+281,50,O,,148,152,107,Yes,Moderate,Low,No,,,Good,0.445251461,Medium
+282,84,,29,152,266,,Yes,Moderate,Low,Yes,Medium,Diabetes,Poor,0.68716423,
+283,35,male,27.8,127,248,117,Yes,High,Low,Yes,Medium,Malaria,,0.562415736,Medium
+284,,F,36.3,142,168,164,No,High,,Yes,High,,Poor,0.629939194,Medium
+285,71,O,22.5,156,295,133,No,High,Low,Yes,Medium,Malaria,,0.595125842,Medium
+286,,F,,117,265,162,Yes,High,Medium,No,High,Hypertension,Good,0.663824543,Medium
+287,84,O,16.9,92,,194,Yes,,High,No,Medium,Hypertension,,0.579604861,Medium
+288,,male,22.5,,237,108,Yes,,Medium,Yes,Low,,Average,0.601644477,Medium
+289,41,F,26.8,111,184,73,No,,High,,High,,,0.165125815,Low
+290,49,F,32,,150,195,No,,Medium,,Low,Tuberculosis,,0.623516936,Medium
+291,64,O,18.9,161,275,72,No,,Medium,No,,,,,Low
+292,40,male,28.9,161,238,133,Yes,,High,No,Medium,Tuberculosis,Poor,0.570366431,Medium
+293,83,F,24.7,151,293,98,,Moderate,High,No,Low,,Good,0.368412672,Low
+294,,male,,146,296,185,No,Moderate,,No,,Hypertension,Average,0.5021574,Medium
+295,19,,25.9,95,174,80,,Moderate,Low,No,Low,Malaria,Average,,Low
+296,34,male,33.5,167,165,166,No,High,Medium,No,Medium,Heart Disease,Poor,0.591375126,Medium
+297,50,O,19.4,121,222,171,No,Moderate,Medium,No,Medium,Hypertension,Poor,0.352777093,Low
+298,26,F,,99,278,90,Yes,High,,No,High,Heart Disease,Poor,0.328765631,Low
+299,60,,50,92,191,108,Yes,Moderate,High,No,Low,Tuberculosis,Good,0.338599253,Low
+300,,male,22.7,148,296,171,Yes,,High,No,Medium,,Average,0.744136544,High
+301,56,male,32.2,165,229,115,Yes,High,Low,No,Low,Diabetes,Average,0.713191817,High
+302,59,F,23.6,138,253,,No,Moderate,,Yes,High,Diabetes,Good,0.481986878,Medium
+303,43,O,32,148,295,160,Yes,,Low,No,Low,Heart Disease,Poor,0.821490529,
+304,67,male,30.5,120,183,180,Yes,,High,Yes,High,Malaria,,0.793275315,High
+305,42,male,23.2,158,238,151,Yes,,,No,Low,Malaria,Good,0.599153666,Medium
+306,41,male,22.5,151,274,192,No,High,,Yes,Low,Heart Disease,Average,0.639108673,
+307,30,F,20.5,,194,,Yes,High,Low,,High,Hypertension,Average,0.539884699,Medium
+308,77,,20.3,,283,,No,Moderate,High,Yes,Medium,,Average,0.464874087,Medium
+309,24,F,26.8,130,170,172,No,,Medium,No,Medium,Hypertension,Average,0.365179254,Low
+310,74,,24.9,120,,198,No,,Low,No,,Tuberculosis,Good,0.668244159,Medium
+311,53,,,174,219,94,Yes,Moderate,High,,Low,Diabetes,Average,,Medium
+312,62,O,17.3,,245,112,No,,Low,No,Low,Tuberculosis,Good,0.448537426,Medium
+313,37,F,25.5,111,254,153,Yes,Moderate,Low,Yes,Medium,,Poor,0.577017212,Medium
+314,,O,22.7,210,197,120,Yes,High,High,No,Low,,Good,0.36806081,Low
+315,25,male,24,102,188,,Yes,Moderate,High,No,Low,Heart Disease,Average,0.404483816,Medium
+316,33,male,,134,180,195,No,,Low,No,Medium,Diabetes,Poor,0.435225935,Medium
+317,,,12.5,,159,138,No,High,Low,No,High,Hypertension,Good,0.29821619,Low
+318,,F,17.3,,179,78,Yes,High,High,No,Low,,Good,,Low
+319,83,male,36.5,109,167,71,No,Moderate,Medium,No,Low,,,0.373579977,
+320,,O,,,237,,No,Moderate,Low,No,,Diabetes,Poor,0.400776461,Medium
+321,80,F,,170,,183,No,High,Low,No,Low,Tuberculosis,Good,0.607297522,Medium
+322,68,O,17.8,143,222,145,Yes,Moderate,Medium,Yes,High,,Average,0.608686571,Medium
+323,42,male,37.4,125,164,154,No,,High,Yes,,Malaria,Poor,,
+324,75,male,21.5,90,153,118,No,Moderate,High,No,Low,Heart Disease,,0.100029967,Low
+325,80,male,30.8,104,158,139,Yes,Moderate,Medium,No,Medium,Diabetes,Good,0.560034323,Medium
+326,79,F,25.6,166,258,159,No,High,High,No,Low,Diabetes,Average,0.598406882,Medium
+327,39,O,22.6,,286,95,Yes,Moderate,High,No,High,,,0.402591584,Medium
+328,75,F,28.9,113,281,141,No,Moderate,Low,Yes,Medium,Diabetes,Good,0.639546094,
+329,75,F,13.1,,165,74,No,Moderate,Low,Yes,High,Heart Disease,Average,0.266374873,Low
+330,66,male,,161,292,84,No,,Low,No,Low,,Good,0.456460277,Medium
+331,69,,50,112,248,,No,Moderate,,Yes,High,Tuberculosis,,0.591313447,Medium
+332,59,F,18.3,135,270,70,,,High,Yes,High,,Poor,0.224240226,
+333,87,male,22.1,161,201,72,No,,High,No,Low,,Poor,0.269476486,Low
+334,32,F,29.3,,218,,,,Low,No,Low,Tuberculosis,Good,,Medium
+335,,male,25.7,148,154,,No,,Low,No,Medium,Malaria,,0.520561547,Medium
+336,77,male,31.7,179,,82,No,High,,Yes,,Heart Disease,Poor,0.528266441,Medium
+337,25,male,26,148,228,189,No,,High,,Medium,Malaria,Average,0.531657454,Medium
+338,70,male,30,102,295,124,Yes,Moderate,Medium,No,High,Malaria,Average,0.575490619,Medium
+339,77,F,24.7,128,260,135,Yes,,High,No,High,Malaria,Good,0.468431878,Medium
+340,22,male,22,117,151,159,Yes,,Medium,Yes,Medium,Hypertension,Good,,Medium
+341,85,male,32.4,178,242,131,No,,Low,Yes,Low,Malaria,Good,0.745699374,High
+342,23,F,21.5,,162,171,No,High,Medium,No,Low,Hypertension,Good,0.408233612,Medium
+343,64,F,26.7,,153,77,Yes,,Medium,Yes,High,Tuberculosis,Average,0.31994465,Low
+344,72,O,28.8,91,,166,Yes,,Low,,Medium,Heart Disease,Poor,0.584573518,
+345,57,F,29.2,171,223,186,Yes,High,High,No,High,Malaria,Average,0.779597652,High
+346,69,F,19.2,106,244,133,No,,High,Yes,High,Diabetes,Good,0.391177066,
+347,33,O,30.3,119,254,90,Yes,Moderate,Low,Yes,Low,Tuberculosis,Good,0.675977924,Medium
+348,30,F,20.1,,,184,No,,Medium,Yes,Medium,Hypertension,Average,,Low
+349,47,F,29.1,171,216,154,No,,,No,High,Heart Disease,Average,0.500399266,Medium
+350,36,F,27.7,102,,89,No,,Medium,No,Low,,Good,0.346627596,
+351,34,F,,132,158,77,Yes,High,High,No,High,Heart Disease,Poor,0.379273414,Low
+352,80,,19,174,266,127,No,,Medium,,High,Heart Disease,,0.477073111,Medium
+353,36,,27.9,110,160,,Yes,,High,No,Low,Malaria,Average,,Low
+354,75,F,30.4,144,248,100,,Moderate,Medium,No,,Malaria,,0.636497284,Medium
+355,72,O,26,170,191,162,Yes,,Low,Yes,Medium,Hypertension,Good,0.775217273,High
+356,,male,20.9,129,,78,Yes,,,No,High,Hypertension,Poor,0.343575617,Low
+357,40,O,29.6,172,269,84,No,,High,No,Medium,Malaria,Good,,Medium
+358,26,male,25.6,104,,163,No,,,No,Low,Malaria,Good,0.414197099,Medium
+359,29,,16.6,162,161,98,No,Moderate,Low,No,Low,Diabetes,Good,0.26813635,Low
+360,18,O,20.5,141,186,149,No,Moderate,Low,Yes,High,Diabetes,Average,0.452639881,Medium
+361,75,F,22.4,163,223,105,Yes,,Medium,No,Medium,Tuberculosis,Average,0.456425288,Medium
+362,18,,32.5,142,,153,Yes,,Low,Yes,Medium,Malaria,Poor,0.736661842,High
+363,51,F,31.7,176,201,178,Yes,High,,Yes,High,,Good,0.978365938,High
+364,65,male,31.6,141,,187,Yes,High,Low,No,High,Diabetes,Average,0.880112424,High
+365,18,O,26.2,119,205,106,No,,High,No,Medium,Hypertension,Poor,0.208205389,Low
+366,33,O,29.6,122,,155,Yes,Moderate,High,Yes,Low,Heart Disease,Good,0.576508023,Medium
+367,78,male,19.3,146,172,140,No,Moderate,Medium,Yes,Low,Tuberculosis,Poor,0.388008573,Low
+368,,F,25,141,252,162,Yes,,Medium,No,,Diabetes,Poor,0.60581969,Medium
+369,,F,27.3,98,189,149,Yes,,Medium,Yes,Medium,Heart Disease,Poor,0.553681977,Medium
+370,86,F,19.6,143,213,,Yes,,Medium,No,Medium,Heart Disease,Poor,0.605976733,Medium
+371,,F,26,90,234,83,Yes,,Low,No,Medium,Diabetes,Poor,0.269157575,Low
+372,,,33.4,133,238,186,No,,Medium,Yes,Low,,Poor,0.800103961,High
+373,43,O,27.8,164,180,142,No,,Low,No,Low,,Poor,0.47519626,Medium
+374,33,O,,169,169,,,Moderate,Medium,No,Medium,Tuberculosis,Good,,Medium
+375,68,O,12.7,98,279,159,No,High,Medium,No,Medium,,,0.467006601,Medium
+376,74,,32.8,121,162,98,Yes,High,High,Yes,,Tuberculosis,Poor,0.540477752,Medium
+377,46,F,24.1,104,271,118,Yes,,Low,Yes,High,Hypertension,Good,0.541626321,
+378,,F,21.2,101,252,141,No,,High,,Medium,Diabetes,Poor,0.411316463,Medium
+379,64,F,24.1,167,255,111,No,,Medium,No,Medium,Heart Disease,Good,0.448960884,Medium
+380,,F,17.6,146,268,111,Yes,Moderate,Low,Yes,Low,Tuberculosis,Average,0.540326056,Medium
+381,86,O,30.2,97,219,174,Yes,,Medium,Yes,Medium,,Poor,0.748720677,High
+382,33,O,23.3,161,248,96,No,Moderate,High,Yes,High,Tuberculosis,Average,0.418161984,
+383,65,O,21.3,116,231,,No,Moderate,Low,No,Low,Malaria,Poor,,Low
+384,56,male,24.2,151,224,115,No,High,High,No,High,Tuberculosis,Poor,0.38105464,Low
+385,50,F,30.6,101,267,135,Yes,,Medium,Yes,High,,Average,,Medium
+386,40,F,25.7,154,233,94,No,High,Medium,,Low,Malaria,Average,0.426984247,Medium
+387,27,O,18,131,,142,No,High,Medium,Yes,High,Malaria,Average,0.409422539,Medium
+388,86,F,27.3,151,208,186,No,Moderate,Low,No,Medium,,Poor,,Medium
+389,51,F,20.4,100,275,198,No,,High,Yes,High,,Average,0.46860925,Medium
+390,69,,14.2,,260,,,Moderate,High,No,Low,Diabetes,Average,0.457225857,Medium
+391,27,male,32.5,106,211,143,Yes,,,No,Low,Heart Disease,Good,0.571545859,
+392,36,male,27.3,121,293,194,No,Moderate,High,No,Low,Diabetes,Good,,Medium
+393,75,male,24.6,174,277,136,Yes,,Low,Yes,High,Diabetes,Average,0.712666523,High
+394,18,O,23.3,174,254,75,No,,,Yes,Medium,,Average,0.474654697,Medium
+395,86,F,32,129,217,194,No,Moderate,Medium,No,Low,,Average,0.707118029,High
+396,21,O,40.4,112,164,127,No,,Medium,No,Medium,Heart Disease,Average,0.438425498,Medium
+397,33,O,27.2,145,184,139,Yes,Moderate,Low,No,Low,Tuberculosis,,0.537211722,Medium
+398,41,F,19.9,95,163,122,Yes,,Medium,No,Medium,,Poor,0.269009629,Low
+399,19,male,24.2,175,251,135,Yes,,Medium,Yes,Medium,Malaria,Average,0.685576537,Medium
+400,49,,27.2,139,249,127,No,High,Medium,Yes,Medium,Heart Disease,Average,0.448916273,Medium
+401,41,O,13.3,126,156,151,No,Moderate,,No,Low,Diabetes,Good,0.291795136,Low
+402,29,male,26.7,153,179,156,Yes,,,No,,Tuberculosis,Average,0.491541852,Medium
+403,67,O,27.2,143,198,71,Yes,High,Medium,No,,Malaria,Average,0.415769485,Medium
+404,52,O,,161,,106,No,Moderate,Low,Yes,High,Diabetes,Good,0.715548464,High
+405,50,,31.1,138,260,172,Yes,Moderate,Medium,No,,,Average,0.749683805,High
+406,50,F,25.6,100,221,93,No,,Medium,,Low,Heart Disease,Average,0.32934101,Low
+407,78,F,32.6,177,229,181,Yes,Moderate,High,No,Medium,,Good,0.889930071,High
+408,,O,35.2,138,232,134,,,Medium,Yes,Low,Diabetes,Poor,0.694890383,Medium
+409,60,F,25.1,110,191,198,Yes,High,High,Yes,Medium,Malaria,Average,0.634149517,Medium
+410,29,male,27.1,155,166,186,No,Moderate,Low,No,Low,Malaria,Average,0.574180538,Medium
+411,84,,16.2,,,185,No,High,High,Yes,Low,Heart Disease,Poor,,Medium
+412,82,O,17.7,172,159,174,Yes,,Medium,Yes,Low,Heart Disease,Good,0.749835881,High
+413,50,O,,117,183,72,No,High,Low,Yes,,Malaria,Poor,0.291271503,Low
+414,57,F,22.8,106,185,115,No,,Medium,Yes,High,Malaria,Average,,Low
+415,,O,19.5,95,155,124,No,High,High,No,Medium,Malaria,,0.114670462,Low
+416,61,O,24.8,108,295,144,No,,Low,,Medium,Diabetes,Good,0.546894173,Medium
+417,46,male,22.9,145,283,114,Yes,,Low,No,Low,Malaria,Average,0.549791788,Medium
+418,30,male,30.4,,178,146,No,,High,No,Low,,Good,0.426302249,Medium
+419,29,F,22.6,155,275,93,,,High,No,High,Malaria,Good,0.403983588,Medium
+420,63,O,13.6,127,230,104,Yes,Moderate,,Yes,High,,Poor,0.437192534,Medium
+421,19,O,25.6,126,224,93,No,High,Low,Yes,Low,Diabetes,Poor,,Low
+422,52,male,,,175,97,No,High,High,Yes,High,Heart Disease,Good,0.377682235,Low
+423,25,O,20.7,175,276,85,,High,Medium,,High,,Good,0.448411807,Medium
+424,43,male,25.5,179,,128,Yes,,Low,No,Low,Diabetes,Average,0.663077729,
+425,51,F,19.6,138,275,84,Yes,High,High,No,Medium,Malaria,Good,0.437777629,Medium
+426,24,male,26.6,132,177,80,No,High,Medium,Yes,,Diabetes,Good,0.345046138,Low
+427,85,O,38.2,125,280,,No,Moderate,Low,No,,Malaria,Poor,0.748868684,High
+428,75,F,16,,224,184,,Moderate,Low,Yes,High,Diabetes,Good,0.715855424,High
+429,46,male,22.4,102,,137,Yes,High,High,Yes,High,Heart Disease,Good,0.470503425,Medium
+430,53,male,21.6,141,239,112,Yes,High,Medium,No,Low,,Poor,0.434070725,Medium
+431,38,F,,147,170,138,No,,Low,No,High,Heart Disease,Average,0.388423253,Low
+432,53,F,30.1,121,203,144,No,,Medium,No,High,Hypertension,Poor,0.578581906,Medium
+433,27,male,27.7,170,252,172,,High,Medium,No,High,Malaria,,0.689269836,Medium
+434,41,O,,149,208,,No,Moderate,Low,No,Medium,,Good,0.475402418,
+435,81,male,25.2,172,221,128,No,High,Medium,No,Medium,Heart Disease,Good,0.496195609,Medium
+436,66,F,18.4,147,169,108,No,,Low,No,High,,Average,,Low
+437,53,male,19.4,145,261,,No,Moderate,Medium,,Low,Hypertension,Good,0.398864837,Low
+438,41,F,28.7,117,208,76,No,Moderate,Low,No,High,Tuberculosis,Average,0.340572878,Low
+439,40,F,25.9,90,,118,No,,High,Yes,High,Malaria,Average,0.313501212,Low
+440,,O,31.3,131,286,95,No,High,Low,Yes,Medium,Malaria,Average,0.556643552,Medium
+441,,F,26.5,171,258,,Yes,High,Low,No,Medium,Diabetes,,0.840190006,
+442,29,F,19.1,137,278,148,Yes,High,Low,Yes,,Malaria,Good,0.629850907,Medium
+443,72,O,,129,205,71,Yes,,Medium,No,High,Malaria,Poor,0.3150887,Low
+444,30,F,27.8,152,184,196,Yes,Moderate,High,Yes,High,Heart Disease,Poor,0.618120017,Medium
+445,40,O,28.6,165,272,89,Yes,,Medium,,Low,Malaria,Good,0.632715178,Medium
+446,47,O,29.3,161,280,186,Yes,High,Medium,Yes,High,Malaria,Good,0.804991493,High
+447,34,F,50,177,253,101,Yes,,Low,No,High,,Average,0.530554407,Medium
+448,79,F,19,169,156,97,Yes,,,Yes,Medium,Hypertension,Good,0.508236279,
+449,30,male,24.1,93,176,146,Yes,,Low,Yes,Medium,,Poor,0.408179308,Medium
+450,76,O,32.2,127,150,70,No,High,High,Yes,Medium,,Good,0.398043957,Low
+451,36,male,21.5,116,236,125,No,Moderate,Medium,No,Medium,Malaria,Good,0.317333516,Low
+452,66,F,27.3,98,190,104,Yes,,Medium,Yes,Medium,Malaria,,0.405753828,Medium
+453,29,male,27.3,105,272,181,,,Medium,No,Low,Diabetes,Average,0.470964285,Medium
+454,78,O,28.8,145,224,99,No,Moderate,Low,Yes,,,Average,0.478573443,Medium
+455,36,male,33.3,165,191,123,,Moderate,Low,Yes,Low,Heart Disease,Average,0.721442561,High
+456,26,O,32.8,120,266,105,Yes,High,Medium,Yes,Medium,Malaria,Poor,0.596652157,Medium
+457,88,F,22,177,212,149,Yes,,Medium,No,Medium,Heart Disease,Good,0.718021217,High
+458,45,F,14.5,103,,127,No,,High,Yes,Medium,Malaria,,0.372141991,Low
+459,69,O,21.6,114,282,152,,,High,Yes,Low,Heart Disease,Average,0.498774551,Medium
+460,33,F,25.4,123,197,134,Yes,High,High,Yes,Medium,Tuberculosis,Poor,0.489740008,Medium
+461,86,,23.2,156,152,138,No,,High,Yes,,Heart Disease,Poor,0.367831588,Low
+462,29,F,34.8,113,265,197,No,Moderate,,No,Medium,,Good,0.661555546,Medium
+463,42,F,25.1,,248,120,No,,Low,Yes,High,Malaria,Average,,Medium
+464,69,O,28.3,115,265,,Yes,Moderate,High,,Low,,Good,0.457796193,
+465,70,male,26.1,109,163,176,No,,High,,High,Heart Disease,Good,0.526779472,Medium
+466,,,23.3,210,261,178,No,,Medium,Yes,,Hypertension,Poor,0.526860602,Medium
+467,33,F,15.4,99,210,,No,,Low,No,Medium,Hypertension,Poor,0.275980851,Low
+468,74,male,,172,244,170,No,,High,Yes,Medium,Hypertension,Good,0.728583816,High
+469,56,male,41.3,156,166,169,No,High,,Yes,High,Malaria,Average,0.736420858,High
+470,70,F,18.8,,273,137,No,,High,No,Medium,,Average,0.276640096,Low
+471,59,,15.9,94,173,105,,High,Medium,Yes,Low,Tuberculosis,Good,0.205361047,Low
+472,75,male,34.7,156,265,91,Yes,Moderate,Medium,Yes,Medium,,Good,0.777045033,High
+473,56,O,,147,231,135,Yes,Moderate,Medium,Yes,Medium,Diabetes,Average,0.623008997,Medium
+474,31,F,25.9,116,199,90,,High,High,,Low,Hypertension,Average,0.230114153,Low
+475,22,O,31.8,169,228,169,Yes,Moderate,Medium,Yes,High,Heart Disease,Average,0.908590201,High
+476,52,male,20.8,,228,197,No,Moderate,High,,High,,Good,0.484189007,Medium
+477,35,F,24.5,124,219,113,No,,Low,No,Medium,,Poor,0.319688334,Low
+478,26,O,29.8,165,,,No,,High,No,Low,Hypertension,,0.460901686,Medium
+479,75,F,35.6,142,,116,Yes,,Medium,,High,,Average,0.609866421,
+480,34,,50,133,,108,No,High,Low,No,High,Malaria,Average,0.319519049,
+481,24,,31.4,115,185,98,,High,High,No,Medium,,Good,0.440835782,Medium
+482,63,male,26.9,136,,123,Yes,Moderate,Low,,Low,Hypertension,,0.381404927,
+483,30,male,25.8,,228,159,,,Low,Yes,High,Tuberculosis,Poor,0.557880899,Medium
+484,57,F,25,176,,154,,High,Low,Yes,Medium,Hypertension,Average,0.760887554,High
+485,59,O,18.1,139,196,86,Yes,High,,,Medium,Malaria,Good,,Low
+486,26,male,29.8,173,,149,Yes,,Medium,,Medium,Tuberculosis,Poor,0.645849849,Medium
+487,67,male,21.1,101,247,142,,High,High,No,Medium,Tuberculosis,Good,0.436840313,Medium
+488,44,O,19.6,176,245,118,No,,,No,High,Tuberculosis,Poor,0.388479356,Low
+489,83,,29.4,93,265,170,No,Moderate,High,No,Low,Heart Disease,Average,0.553010991,Medium
+490,22,male,28.9,176,162,,Yes,Moderate,,No,Medium,Heart Disease,Good,0.48634457,
+491,46,O,25.4,,150,128,Yes,Moderate,High,Yes,Medium,Tuberculosis,Average,0.401551848,Medium
+492,54,O,30.4,144,,166,Yes,,Medium,Yes,High,,,0.757966207,High
+493,,,,90,228,168,No,High,High,No,Medium,Tuberculosis,Poor,0.524620165,Medium
+494,25,O,31.5,178,227,172,,Moderate,,,Medium,Diabetes,Average,0.849460196,High
+495,82,F,22.4,155,270,71,Yes,Moderate,High,No,Low,Tuberculosis,Poor,0.376968718,Low
+496,34,O,,119,242,110,No,Moderate,,Yes,Medium,Heart Disease,Average,0.544255876,Medium
+497,88,F,26.1,92,247,192,No,High,Medium,No,High,Heart Disease,Average,0.531956461,
+498,62,F,33.6,110,231,151,No,High,Medium,Yes,Low,Diabetes,Average,,Medium
+499,21,,24.4,178,187,98,Yes,,High,Yes,High,Diabetes,Poor,0.499447218,Medium
+500,53,male,23.2,173,163,83,No,Moderate,High,Yes,Low,Hypertension,Good,0.34134493,Low
+501,87,F,21.9,138,285,81,,High,High,No,Low,,Average,0.446713175,Medium
+502,48,F,,175,240,168,Yes,,Low,No,Medium,,Good,0.690561421,Medium
+503,36,male,27.3,174,203,150,No,Moderate,Medium,Yes,Medium,,Poor,0.518143559,Medium
+504,78,male,27.4,151,279,,No,High,Low,Yes,Medium,Malaria,Poor,0.724407526,High
+505,,male,26.7,127,250,101,No,High,Low,Yes,High,Heart Disease,,,Medium
+506,56,O,28.4,104,238,143,No,,High,Yes,,,Average,0.504580041,Medium
+507,36,male,,141,205,150,,Moderate,High,No,Medium,Hypertension,Poor,0.330711373,Low
+508,56,male,20.6,,243,138,Yes,Moderate,Low,Yes,Low,Hypertension,Average,0.622869206,Medium
+509,84,F,20.2,135,242,114,Yes,High,Low,No,Medium,,Average,,Medium
+510,62,,29.9,114,233,175,Yes,Moderate,High,Yes,Medium,Diabetes,,,Medium
+511,30,O,27.4,110,234,169,No,,High,No,,,Poor,0.356660415,Low
+512,75,male,15.7,177,171,78,Yes,High,Low,Yes,Medium,Diabetes,Good,0.483560314,Medium
+513,37,O,30.5,94,184,131,No,High,High,No,Low,Heart Disease,Poor,0.312088856,Low
+514,89,male,34.4,159,165,98,No,,High,No,Medium,Malaria,Good,0.54243991,Medium
+515,78,,21.4,136,199,194,Yes,High,Low,,,,Poor,0.672032869,Medium
+516,,,26.7,,271,183,,Moderate,Low,Yes,High,,Poor,0.834786811,High
+517,18,male,22.6,157,277,189,No,Moderate,Medium,No,Medium,,Poor,0.577344361,Medium
+518,20,O,28.1,107,262,148,Yes,High,Low,Yes,Medium,Heart Disease,Average,0.585780593,Medium
+519,79,O,19.2,110,166,162,No,,High,No,,Tuberculosis,Average,0.362439709,Low
+520,80,F,24.6,175,,73,Yes,,,No,Low,Tuberculosis,Good,0.5251798,Medium
+521,42,O,29.9,,279,151,Yes,Moderate,Low,Yes,Medium,,Good,0.690343705,
+522,73,male,50,153,281,144,,,Low,No,Medium,Heart Disease,Poor,0.868648521,High
+523,,F,27.1,156,234,,Yes,High,Medium,No,High,Heart Disease,Poor,,Medium
+524,55,F,23.3,129,243,183,,High,Medium,Yes,Low,Heart Disease,Average,0.675871281,Medium
+525,23,F,17,99,283,131,No,Moderate,High,No,Low,Heart Disease,Average,0.233279965,
+526,75,male,21.2,178,230,175,Yes,Moderate,Medium,No,High,Tuberculosis,Average,0.734097313,High
+527,61,O,22.7,141,218,133,Yes,Moderate,Low,No,Low,Diabetes,Good,,Medium
+528,62,,21.5,161,218,171,Yes,,Medium,No,Medium,Heart Disease,Average,0.693930881,Medium
+529,49,F,25.3,164,297,175,,High,Low,Yes,Medium,Diabetes,Good,0.694080139,Medium
+530,62,male,23.3,150,165,89,No,High,,No,High,Heart Disease,Average,0.249048535,Low
+531,78,male,,153,200,127,No,High,Medium,No,,,Average,0.385222984,Low
+532,64,O,31,94,254,181,No,Moderate,Medium,,Low,Malaria,Poor,0.6620169,Medium
+533,38,O,23,210,215,126,No,,Low,No,Low,Hypertension,Good,0.40651477,Medium
+534,53,F,18.1,144,158,188,Yes,,Medium,No,High,,Average,0.578948006,Medium
+535,36,male,21.5,126,256,166,Yes,,Low,,Medium,Hypertension,Poor,0.493983806,
+536,,male,27.9,145,249,161,Yes,,Low,No,High,Heart Disease,Good,,
+537,74,O,28.4,,235,,,Moderate,High,No,Medium,Diabetes,Good,0.426877847,
+538,35,male,27,158,,106,No,High,Medium,Yes,High,Malaria,Average,0.48775135,Medium
+539,64,male,31.5,162,171,77,Yes,,High,,Medium,Tuberculosis,Good,0.637710111,Medium
+540,66,male,24.1,148,259,,,,High,Yes,,,Poor,0.402705534,Medium
+541,31,O,35.3,91,,167,No,,Low,Yes,Low,Malaria,Poor,0.596935473,Medium
+542,32,,29.1,154,167,187,No,High,Medium,No,Low,Malaria,Good,0.502090679,Medium
+543,48,F,12.4,149,220,138,Yes,,,No,High,Tuberculosis,Poor,0.382078659,
+544,18,male,34,140,276,114,Yes,Moderate,Low,Yes,High,Heart Disease,Good,0.772637481,High
+545,71,F,21.2,,246,101,No,High,Medium,Yes,,Hypertension,Poor,0.328200011,
+546,20,O,19.8,100,150,102,No,High,Low,Yes,Low,Hypertension,Good,0.257893878,Low
+547,,O,27.6,165,281,195,No,,Medium,No,,Diabetes,Good,,Medium
+548,74,F,16.3,128,153,136,No,,Medium,No,Low,Heart Disease,Good,0.25442161,Low
+549,29,F,21.5,179,274,99,Yes,Moderate,Low,Yes,Low,Tuberculosis,Poor,0.637591278,Medium
+550,33,male,,166,231,,No,High,Low,Yes,Medium,Heart Disease,,0.81065997,High
+551,89,F,27.8,161,176,98,,,High,,Medium,Heart Disease,Good,0.541010225,Medium
+552,,male,,152,208,99,Yes,Moderate,Low,Yes,Medium,Hypertension,Average,0.515757589,Medium
+553,,male,21.7,153,181,199,Yes,,Medium,Yes,Medium,Tuberculosis,Average,0.496533028,Medium
+554,25,O,17.3,150,177,131,No,High,High,,Low,,Good,0.320925196,Low
+555,53,O,28.5,143,,72,Yes,,,Yes,High,Malaria,Average,0.481603757,Medium
+556,25,O,29.7,162,254,137,Yes,High,,No,Low,Hypertension,Good,0.620147025,Medium
+557,75,O,29.4,147,219,94,No,,Low,,Medium,Tuberculosis,,,Medium
+558,77,F,26,174,211,113,,High,Low,,High,Diabetes,Poor,,Medium
+559,67,O,20.2,145,183,124,No,Moderate,Low,No,High,Malaria,,0.331825835,
+560,45,F,37.2,123,236,199,Yes,High,Medium,Yes,Low,Malaria,Good,0.857538734,High
+561,58,O,27.4,120,263,110,No,Moderate,High,No,Low,Hypertension,Good,0.405839811,Medium
+562,81,F,24.1,141,255,133,Yes,High,Medium,No,Low,Diabetes,Poor,,
+563,44,,24.2,178,205,100,,Moderate,High,Yes,High,,Poor,0.49755374,Medium
+564,80,F,25.7,165,262,116,No,,Low,Yes,High,,Average,0.583539519,Medium
+565,34,F,30.3,90,162,199,Yes,High,Medium,No,High,Tuberculosis,Good,0.564791269,Medium
+566,50,O,25.9,144,167,165,Yes,,Low,No,Medium,Diabetes,Poor,0.520851177,Medium
+567,46,F,,111,262,146,,Moderate,Medium,Yes,Medium,Malaria,Poor,,Medium
+568,30,male,25.8,129,188,179,Yes,High,Low,No,Low,Hypertension,Good,0.575601516,Medium
+569,63,male,24.4,90,228,138,No,High,Medium,Yes,High,Malaria,Average,0.353008144,Low
+570,52,O,28.2,154,295,127,Yes,,Medium,No,,Diabetes,Average,0.672472066,Medium
+571,23,male,28,152,179,175,No,High,High,Yes,High,Malaria,,0.451756776,Medium
+572,86,F,24.2,143,247,113,Yes,High,Low,No,Low,,Average,0.502042667,Medium
+573,64,male,21.3,131,207,143,Yes,,High,No,Medium,Hypertension,Poor,0.525563851,Medium
+574,42,O,26.7,110,216,125,No,High,,,High,,Good,0.388594631,Low
+575,83,F,25.4,168,220,196,Yes,,Low,No,Medium,Malaria,Good,0.81786791,High
+576,,O,,170,295,99,Yes,,Medium,No,High,,Poor,0.51249486,Medium
+577,73,F,20.8,111,255,140,Yes,,High,No,Low,,Poor,0.377840685,Low
+578,,male,27.1,127,156,187,Yes,,Low,No,High,Malaria,Poor,0.543046184,Medium
+579,,O,27.8,169,189,,Yes,,Medium,No,Medium,,Good,0.564742188,Medium
+580,50,O,23.2,97,219,136,Yes,Moderate,,No,High,Heart Disease,Good,,Medium
+581,82,F,22.1,151,217,72,No,Moderate,High,No,Low,Hypertension,Good,0.298833636,Low
+582,35,O,20.8,136,198,95,No,,High,Yes,High,Tuberculosis,,0.264102453,
+583,66,F,26.9,106,201,126,No,Moderate,,No,Medium,,Poor,0.310628502,Low
+584,28,F,21,106,263,195,Yes,Moderate,High,No,Low,Diabetes,Poor,0.494369384,Medium
+585,43,F,36.2,179,256,122,Yes,High,Medium,Yes,Medium,Malaria,Poor,0.890238534,High
+586,80,F,22.9,102,178,112,Yes,,High,No,High,Diabetes,Good,0.290935735,
+587,76,male,12.9,106,298,118,,Moderate,Low,No,Medium,Diabetes,Poor,,Low
+588,44,F,24.8,127,227,111,Yes,High,,,High,Malaria,Poor,,
+589,66,O,24.6,170,158,80,No,High,Low,No,Low,Tuberculosis,Average,0.347939977,
+590,50,,30.6,167,225,172,Yes,,Low,No,Medium,Malaria,Good,0.849402217,
+591,18,O,26.4,134,,,Yes,,Low,Yes,,Tuberculosis,Poor,0.507824954,Medium
+592,,,20.8,95,277,154,Yes,High,,Yes,High,Malaria,,0.522315283,Medium
+593,72,F,23.6,124,169,169,No,,Low,No,Medium,,Good,0.488920208,Medium
+594,23,male,26.6,103,221,173,Yes,,High,No,Medium,Tuberculosis,Good,,Medium
+595,86,male,14.2,161,,115,No,High,Medium,Yes,Low,,,0.38604825,Low
+596,22,O,31.7,150,262,113,Yes,High,Low,No,High,Tuberculosis,Good,,High
+597,20,,20.8,104,173,91,Yes,,Medium,Yes,High,Tuberculosis,Good,0.342317209,Low
+598,70,F,32.1,143,277,183,No,Moderate,Medium,Yes,,Malaria,Good,0.878878207,High
+599,40,,27,116,232,194,Yes,,Medium,Yes,Low,Tuberculosis,Poor,0.595958834,Medium
+600,70,male,28.1,102,212,,Yes,,High,No,High,,Average,0.598338063,
+601,54,male,30.7,120,209,99,Yes,High,Low,Yes,Low,Malaria,Poor,0.553332147,Medium
+602,,F,27.9,124,248,77,Yes,Moderate,Medium,Yes,Low,Hypertension,Average,0.510754024,Medium
+603,18,F,28.4,149,211,,No,High,Medium,Yes,Low,,Average,0.548868192,Medium
+604,68,F,24.2,95,,126,No,,Medium,No,High,Hypertension,Good,0.275749221,
+605,62,F,26.9,158,171,180,,,Low,No,Low,Diabetes,Good,0.703792421,High
+606,21,F,22.1,175,,142,Yes,High,Medium,No,Medium,Malaria,Poor,0.584361651,Medium
+607,79,O,23.3,147,191,,No,High,Medium,Yes,Medium,,,0.595194148,Medium
+608,82,male,34.8,138,247,89,Yes,High,High,No,High,Malaria,Good,0.586360802,Medium
+609,49,,21,112,180,94,No,,Low,No,Low,,Good,0.201968335,Low
+610,51,male,25.8,178,261,,Yes,,High,Yes,Medium,,Good,0.593977784,Medium
+611,89,male,25.6,123,295,74,No,Moderate,,Yes,High,Hypertension,Good,0.464984977,
+612,56,male,23.4,115,271,144,No,High,Low,No,,Malaria,Poor,0.47830441,Medium
+613,43,male,27.6,136,166,197,No,Moderate,Low,No,Low,Hypertension,Poor,0.424971814,Medium
+614,51,male,27.9,94,187,141,,,High,Yes,High,Malaria,Good,0.423459796,Medium
+615,71,male,20.4,179,291,109,,Moderate,High,No,Medium,Hypertension,Good,0.569657301,Medium
+616,20,O,25.5,109,259,95,Yes,Moderate,High,Yes,High,Diabetes,Good,0.452740379,Medium
+617,67,male,,95,171,96,,,High,,Medium,,Good,0.262086273,Low
+618,29,O,28.9,159,205,152,No,,Medium,No,Medium,Malaria,Good,0.543872084,Medium
+619,82,,25.9,148,268,197,No,High,,No,Low,Heart Disease,Average,0.702176004,High
+620,71,male,25.4,153,296,102,No,Moderate,Medium,No,Low,Hypertension,Average,0.494581937,Medium
+621,22,F,28.3,107,206,166,,,Low,No,Medium,Hypertension,Average,0.483272676,Medium
+622,74,F,50,93,184,180,No,,Medium,Yes,High,Heart Disease,Average,0.431637575,Medium
+623,34,F,29.6,106,263,85,No,Moderate,Low,No,High,,Good,0.345102956,Low
+624,64,O,,,274,92,No,,High,No,Low,Hypertension,Average,,Low
+625,40,F,,167,278,95,No,High,Low,No,Medium,,Average,0.624803048,Medium
+626,31,F,22.2,102,201,165,No,High,Low,Yes,Low,Hypertension,Poor,0.333523966,Low
+627,83,F,16.5,96,234,81,No,Moderate,Medium,No,Medium,Tuberculosis,Average,,Low
+628,68,male,,133,214,141,No,High,High,,Medium,Hypertension,Average,0.444156091,Medium
+629,55,male,22.8,104,278,175,Yes,,High,Yes,Low,Tuberculosis,Good,0.681486455,Medium
+630,81,O,23.3,108,,186,No,,Medium,Yes,High,Malaria,Average,0.50232609,Medium
+631,,O,26.2,152,165,95,No,,High,Yes,,,Average,0.321172502,Low
+632,67,male,30.5,124,272,91,No,,High,Yes,Medium,Hypertension,Good,,Medium
+633,,O,24,170,210,82,Yes,Moderate,High,Yes,Low,Diabetes,Average,0.474639173,Medium
+634,68,male,21.5,124,203,176,Yes,High,Medium,No,,Diabetes,,0.604218819,Medium
+635,80,F,19.4,108,175,92,Yes,High,High,Yes,High,Heart Disease,,0.318144507,Low
+636,69,F,22.7,109,229,166,No,,Low,Yes,Medium,Diabetes,,,Medium
+637,55,O,15.6,124,214,87,No,Moderate,,Yes,Low,Tuberculosis,Poor,0.242181268,Low
+638,47,,50,121,249,186,No,,High,Yes,High,Diabetes,Average,0.480919117,Medium
+639,68,male,31.2,137,223,99,Yes,,Medium,Yes,Low,Diabetes,Poor,0.591621945,Medium
+640,22,O,20.9,133,166,95,No,,Medium,Yes,High,Diabetes,Good,0.299903982,Low
+641,46,,28.1,113,270,108,Yes,Moderate,Medium,Yes,Medium,Hypertension,Average,0.54128164,Medium
+642,21,F,18.9,150,172,199,Yes,,High,Yes,Medium,Heart Disease,Good,0.637372111,Medium
+643,27,O,33.9,106,284,182,Yes,High,High,No,Low,,Poor,0.702789381,
+644,73,O,34.2,,,115,Yes,,Low,No,,Heart Disease,Good,0.754276438,High
+645,34,male,,139,257,119,Yes,High,Medium,No,High,Tuberculosis,Poor,0.527118342,Medium
+646,34,O,,154,228,175,No,,Low,Yes,Medium,Hypertension,Poor,,
+647,86,male,26.8,121,195,141,No,Moderate,Low,Yes,High,Malaria,Poor,0.51119644,Medium
+648,51,male,,125,227,143,Yes,Moderate,Medium,,,Hypertension,Good,0.692321078,Medium
+649,23,male,31.3,102,165,86,No,,High,No,Medium,Diabetes,Poor,0.295614552,Low
+650,70,male,25.9,159,220,139,No,High,High,Yes,High,Diabetes,Average,0.486402495,Medium
+651,83,male,,147,245,75,Yes,,Low,Yes,High,,,0.447886581,Medium
+652,60,O,28.9,103,296,95,Yes,,Low,Yes,Low,Malaria,Average,0.530285398,
+653,40,F,22.6,,,168,No,,Low,No,Low,Hypertension,Average,0.359307341,Low
+654,72,F,23,168,159,91,No,,,No,Low,Malaria,Average,0.307006332,Low
+655,33,O,26.5,157,274,120,No,Moderate,Medium,,Medium,,Average,0.523575074,Medium
+656,25,O,27.8,129,230,173,No,,Low,,Low,Heart Disease,Good,,Medium
+657,21,F,25.8,148,289,158,Yes,,,Yes,,Hypertension,Average,0.715863793,High
+658,21,F,28.2,169,219,78,No,High,High,Yes,Medium,Malaria,Poor,0.402779592,Medium
+659,73,F,21.5,105,,148,Yes,,High,No,Medium,,Average,0.626327621,Medium
+660,42,F,,151,181,121,Yes,High,High,No,Medium,,Poor,0.373036278,Low
+661,84,F,29.2,93,254,199,No,High,,No,Medium,Heart Disease,Good,,Medium
+662,84,male,33.9,134,233,82,No,Moderate,Medium,No,High,,Average,0.542548895,Medium
+663,44,O,35.6,179,278,120,No,,High,Yes,High,Tuberculosis,Poor,0.711640763,High
+664,49,male,27.2,117,207,103,Yes,,High,Yes,Low,,,0.447864337,Medium
+665,67,F,,155,295,104,Yes,High,Low,No,Medium,Malaria,,0.610881179,
+666,,F,34.9,120,283,189,Yes,Moderate,Low,No,Low,Tuberculosis,Poor,0.897455425,High
+667,,F,21.6,92,194,139,Yes,Moderate,Medium,Yes,High,,,0.412715111,Medium
+668,,male,28.1,97,246,136,No,,,Yes,Medium,Diabetes,Good,0.400069266,Medium
+669,38,male,,113,172,172,Yes,High,Low,Yes,High,,Poor,0.526631625,Medium
+670,22,F,32.2,,172,142,Yes,,,Yes,Low,Tuberculosis,Average,0.556546162,Medium
+671,59,male,19.3,132,284,185,No,,Low,No,High,,Good,0.637261712,Medium
+672,78,male,20.3,120,228,136,Yes,,Medium,No,Medium,,Poor,0.369784382,Low
+673,,F,25.1,162,193,190,Yes,,Medium,No,Medium,,Good,0.672623318,Medium
+674,38,male,,134,176,163,No,High,,,Low,Tuberculosis,Good,,Medium
+675,,O,30.6,155,175,198,Yes,Moderate,Low,Yes,Medium,,Poor,0.872219967,High
+676,18,O,27.6,97,246,160,Yes,,Low,No,High,Heart Disease,Good,0.534575531,
+677,22,O,24.2,,185,,Yes,,Medium,No,High,Malaria,Poor,0.516181362,Medium
+678,29,O,27.1,146,258,132,Yes,,High,No,High,Heart Disease,,0.517455572,Medium
+679,63,F,26.5,,204,98,No,,Low,Yes,High,Tuberculosis,Poor,0.442257376,Medium
+680,51,F,33.7,119,218,81,Yes,Moderate,Medium,No,Low,Diabetes,Average,0.531082395,Medium
+681,66,F,25.8,163,210,146,No,Moderate,Medium,Yes,High,Heart Disease,Good,0.690258606,Medium
+682,62,O,23.1,107,,110,Yes,Moderate,Medium,No,Low,Malaria,Poor,0.436232881,Medium
+683,44,O,27.2,158,204,199,No,Moderate,Low,,High,,Poor,0.571133376,Medium
+684,43,male,26,128,271,106,No,,Low,No,Low,Malaria,Poor,0.400330653,Medium
+685,64,male,17.1,149,246,93,No,High,,,High,Heart Disease,Poor,,Low
+686,73,O,24.9,132,229,168,Yes,,Medium,Yes,High,Hypertension,Average,0.691919391,Medium
+687,80,O,24.5,134,,169,Yes,Moderate,Low,Yes,,Tuberculosis,Average,0.757134281,High
+688,65,O,22.3,112,,127,Yes,,Medium,Yes,Medium,Malaria,Good,0.408588996,Medium
+689,78,O,30.2,158,268,98,No,,Medium,,Medium,Diabetes,,0.669302559,Medium
+690,43,male,21.1,95,227,129,Yes,,High,Yes,Medium,Hypertension,Good,0.486473458,Medium
+691,53,O,27.3,145,184,164,Yes,,Low,No,Low,Hypertension,Good,0.722146019,High
+692,18,,,93,228,111,Yes,High,Low,Yes,,Malaria,Poor,0.453711375,Medium
+693,25,O,25.5,112,216,112,Yes,High,,No,Medium,Heart Disease,Average,0.409715882,Medium
+694,69,O,27.1,95,236,143,No,Moderate,,Yes,Low,Hypertension,Average,0.525142658,Medium
+695,64,O,18.5,121,183,133,No,High,,No,Medium,Tuberculosis,Average,0.219557201,Low
+696,73,male,26,107,246,71,Yes,Moderate,High,,Medium,,Average,0.361486437,Low
+697,31,male,36.4,104,220,135,Yes,Moderate,High,Yes,Medium,Tuberculosis,Good,,Medium
+698,45,F,17.2,129,152,100,Yes,High,High,No,Low,Malaria,Poor,0.249879017,Low
+699,19,O,24.7,,207,184,No,Moderate,High,Yes,Low,Tuberculosis,Average,,Medium
+700,43,,30.6,163,181,95,Yes,,High,,,Heart Disease,,0.581279563,Medium
+701,31,F,26.5,173,180,98,No,,Medium,Yes,Medium,Malaria,Poor,0.409776223,Medium
+702,76,male,28.4,95,231,147,No,,High,Yes,,Diabetes,Poor,0.460654353,Medium
+703,73,male,13.1,152,192,94,,High,Medium,No,Medium,Heart Disease,Poor,0.284773355,Low
+704,24,F,28,,284,117,Yes,High,Medium,Yes,Low,Tuberculosis,Average,0.655284933,Medium
+705,20,O,21.2,100,254,134,Yes,Moderate,Low,No,,Malaria,Average,0.387205431,Low
+706,,male,26.5,132,150,136,No,,Medium,No,Low,Heart Disease,Average,0.35837514,Low
+707,35,,50,106,210,159,No,Moderate,Medium,No,High,Tuberculosis,Good,0.378055274,Low
+708,55,O,36.4,93,,107,Yes,High,High,Yes,High,,Average,0.496922362,Medium
+709,32,F,27.7,152,,156,No,Moderate,Medium,,Low,,Good,0.417629162,Medium
+710,81,F,24.4,210,252,,Yes,,High,Yes,High,Hypertension,Good,0.608702405,Medium
+711,,F,17.5,170,,96,,,High,No,Medium,Diabetes,Good,0.407236918,Medium
+712,56,F,25.6,130,220,175,No,High,High,,Low,,Average,0.587557652,Medium
+713,74,male,29.1,172,239,192,No,Moderate,Low,Yes,Low,Tuberculosis,Average,0.768142625,High
+714,,male,24.6,,298,113,No,,High,Yes,Medium,Heart Disease,Average,0.339154261,Low
+715,61,F,,121,275,169,No,Moderate,Medium,Yes,Medium,Malaria,Good,0.641593621,Medium
+716,42,male,,175,246,97,Yes,,High,No,Low,Heart Disease,,0.502505768,Medium
+717,34,,27.7,159,223,86,Yes,,High,,Medium,Hypertension,,0.445117245,Medium
+718,30,O,,124,264,196,,Moderate,High,Yes,Low,Heart Disease,Good,0.689098385,Medium
+719,42,O,,111,200,192,No,High,Low,No,Medium,,Good,0.619174891,Medium
+720,85,,20,154,205,145,Yes,High,Medium,,Low,Heart Disease,Average,0.668886438,Medium
+721,27,F,27.6,173,190,115,No,,Low,Yes,Medium,,Poor,,Medium
+722,84,O,24.4,,181,138,No,High,Medium,No,,,Poor,0.21475925,Low
+723,35,male,24.5,100,,154,No,,Low,Yes,High,Diabetes,Poor,0.313852679,Low
+724,51,O,27,166,211,80,Yes,High,Medium,Yes,,Hypertension,Average,0.586049848,Medium
+725,25,O,27,92,177,138,No,,Low,,High,Tuberculosis,Poor,0.382071377,Low
+726,57,O,27.6,98,213,168,No,High,High,Yes,Medium,,Poor,0.527432221,Medium
+727,59,male,19.7,149,279,160,No,,Low,Yes,Low,Malaria,,0.646438203,Medium
+728,58,F,21.3,165,276,163,No,,Low,No,Medium,Hypertension,Poor,0.57429526,Medium
+729,23,male,,176,185,184,,High,High,No,High,Tuberculosis,Good,0.612939867,Medium
+730,,F,23.9,103,263,100,No,Moderate,High,,,Malaria,Good,0.280285656,Low
+731,,F,26.5,107,162,80,No,,Medium,Yes,High,Heart Disease,Good,0.265103351,Low
+732,,O,,,164,156,,,Medium,Yes,High,Hypertension,Good,0.784247044,High
+733,,,27.3,112,238,190,No,,Medium,Yes,Low,Malaria,Good,0.661840873,Medium
+734,73,male,50,163,171,199,No,,Low,Yes,Low,Hypertension,Good,,High
+735,,male,29.5,172,223,174,No,,Medium,,,Hypertension,Good,0.721835307,High
+736,87,F,,136,174,,No,Moderate,Low,Yes,,Heart Disease,Good,0.271381011,Low
+737,50,O,22.6,158,250,71,Yes,,Low,No,Medium,Heart Disease,Good,0.51135985,Medium
+738,70,O,27.3,136,266,,Yes,Moderate,,Yes,High,Hypertension,Average,0.785931766,High
+739,39,male,31.9,176,190,170,No,Moderate,Medium,No,Medium,Malaria,Average,0.674270301,Medium
+740,,O,25.3,119,,90,No,,Low,Yes,,Diabetes,Good,,Low
+741,87,F,20.8,114,259,,,,High,No,Low,,Average,0.330698645,Low
+742,87,F,20.9,117,269,154,Yes,,High,Yes,,,Average,0.633434158,Medium
+743,21,,29.4,114,246,162,Yes,Moderate,Low,No,,Diabetes,,0.564814229,Medium
+744,79,F,,163,294,89,Yes,,Medium,No,Medium,Heart Disease,Good,,Medium
+745,79,male,25,167,206,130,No,,Low,Yes,Medium,Hypertension,Average,0.536210659,Medium
+746,41,F,28.1,147,279,107,No,Moderate,,Yes,Medium,Diabetes,Good,0.551488658,Medium
+747,72,male,10.5,,,,No,Moderate,Medium,No,High,Malaria,Good,,Low
+748,26,O,35,114,270,199,No,High,High,Yes,High,Malaria,Good,0.738800958,High
+749,20,F,21.3,167,211,190,,,Low,Yes,Low,Tuberculosis,Good,0.694078382,Medium
+750,48,F,26.2,137,286,95,No,High,High,Yes,,,Average,0.433815966,Medium
+751,57,male,16.5,99,217,,Yes,,High,,High,,Poor,0.291254218,Low
+752,53,male,22.9,164,230,,Yes,Moderate,,Yes,Low,Heart Disease,Average,0.476110024,Medium
+753,41,,31.2,,166,120,No,,,,Medium,,,,Low
+754,,male,15.4,,266,74,,High,Low,No,Medium,Tuberculosis,Poor,0.47323889,Medium
+755,83,F,30.6,110,199,82,Yes,,High,Yes,High,Malaria,Poor,0.50166595,Medium
+756,21,O,23.6,175,,117,Yes,,High,No,Medium,Diabetes,Average,0.57553398,Medium
+757,23,male,27.4,,,126,Yes,,Medium,,High,Diabetes,Average,,Medium
+758,68,F,28.3,96,234,184,No,,High,Yes,Medium,,Average,0.5283599,Medium
+759,79,O,27.2,210,298,104,No,High,Medium,No,High,Hypertension,Average,0.567632201,Medium
+760,74,O,20.7,153,295,145,Yes,,Low,No,Medium,Malaria,Average,0.685130958,Medium
+761,83,F,23.2,153,223,163,No,Moderate,Medium,No,Medium,,Poor,0.507428317,Medium
+762,25,male,17.7,91,258,74,,,High,No,Low,Heart Disease,Average,0.198436296,Low
+763,43,F,,165,294,91,No,Moderate,Low,No,Low,Tuberculosis,Poor,,Medium
+764,68,O,33.5,131,167,172,,High,Medium,Yes,Low,Malaria,Average,0.689169994,
+765,62,F,15.9,171,191,,No,,Low,No,Low,Hypertension,Average,0.599271814,Medium
+766,61,male,21.2,143,250,122,No,High,Medium,Yes,Low,,Good,0.470087789,Medium
+767,22,O,24.1,,194,138,No,,High,Yes,,Malaria,Poor,0.391066016,Low
+768,87,F,25.9,105,,173,,High,High,No,High,,Average,0.563564155,Medium
+769,43,male,,107,166,85,No,High,Low,No,,Malaria,Average,0.245143266,Low
+770,85,O,24.2,148,222,185,Yes,,Low,No,Low,Heart Disease,Average,,Medium
+771,36,male,23.4,179,163,145,Yes,High,Low,No,High,,Good,,Medium
+772,,O,30.5,105,281,178,No,,Medium,No,Low,Heart Disease,Poor,0.547525871,Medium
+773,29,F,28.3,,231,108,Yes,Moderate,High,,,,,0.464525065,Medium
+774,64,male,27.7,146,297,158,No,Moderate,Low,Yes,Medium,Diabetes,Average,0.730974541,High
+775,18,O,25.6,136,269,181,Yes,Moderate,Low,Yes,High,,,0.713104876,High
+776,31,male,29.9,137,269,116,Yes,High,Low,No,High,Heart Disease,Good,0.55954239,Medium
+777,81,male,21.7,131,196,197,No,Moderate,Medium,No,High,Tuberculosis,Average,0.562593164,Medium
+778,55,F,21,165,256,146,No,,Low,Yes,Medium,Tuberculosis,Poor,0.667873772,Medium
+779,54,male,28.7,149,257,84,No,Moderate,,No,,Diabetes,Poor,,Low
+780,28,,16.9,166,,105,No,Moderate,Medium,No,High,Heart Disease,Poor,0.239533269,Low
+781,20,O,25.5,93,228,132,Yes,High,Medium,No,High,,Poor,0.393430346,Low
+782,50,O,23.4,91,164,,No,,Low,,Medium,Tuberculosis,,0.321277154,
+783,23,O,18,,168,143,Yes,High,Low,,Low,Malaria,Good,0.522432931,Medium
+784,67,F,20.3,148,239,93,Yes,High,Medium,Yes,High,Hypertension,Good,0.501525412,Medium
+785,27,male,24.5,116,175,118,Yes,,High,No,,Heart Disease,Good,0.354169594,Low
+786,22,,30.2,116,,76,Yes,High,Medium,No,Low,Malaria,Average,0.522846746,Medium
+787,40,male,21.7,,231,73,Yes,,High,Yes,Low,Malaria,Good,0.53881499,Medium
+788,27,male,31.1,161,,159,Yes,Moderate,Low,No,High,Heart Disease,Poor,0.772752005,
+789,61,male,25.3,96,191,129,No,,Low,No,High,Hypertension,Average,0.321805959,Low
+790,,F,31.6,152,168,124,Yes,,High,No,High,Tuberculosis,Good,0.589238452,Medium
+791,30,male,22,135,,85,,,Medium,Yes,High,Hypertension,Poor,0.333909108,Low
+792,,F,24.8,152,225,98,Yes,High,Low,No,Medium,Diabetes,Poor,0.499302744,Medium
+793,19,O,26.8,101,212,83,No,,High,No,Medium,,Average,0.242634423,Low
+794,82,O,24.1,102,,148,No,,Medium,No,High,,Average,0.51515273,Medium
+795,80,male,29.8,,256,102,Yes,,High,No,Low,Malaria,,0.468189842,
+796,34,F,14,,198,90,,Moderate,Medium,No,High,Tuberculosis,Good,0.15543264,Low
+797,26,O,37.1,152,204,92,Yes,,,Yes,Low,Hypertension,Good,0.743505861,High
+798,32,F,29.3,170,248,126,No,High,Medium,Yes,Low,,Average,0.569413581,Medium
+799,41,F,24.1,125,201,162,Yes,,Medium,No,Low,Heart Disease,,0.476260265,
+800,55,male,22.2,174,249,89,No,,High,No,Medium,Malaria,Good,0.427104633,Medium
+801,52,O,,97,266,88,No,Moderate,High,Yes,Low,Heart Disease,Poor,0.222304953,
+802,66,male,28.2,,267,172,No,,High,No,Low,Heart Disease,Poor,0.676582449,Medium
+803,86,male,30,179,156,146,Yes,High,High,No,Medium,Diabetes,Poor,0.678791021,Medium
+804,79,O,24.2,169,195,102,Yes,,High,No,,Diabetes,Good,0.502215915,Medium
+805,77,O,30.5,125,,87,Yes,High,Medium,No,Low,,Average,0.553761848,Medium
+806,67,F,20.5,117,249,142,No,Moderate,Low,No,High,Tuberculosis,Poor,,
+807,26,O,,,293,,No,,Low,No,Low,Diabetes,Average,,Low
+808,51,F,,,203,88,Yes,Moderate,High,No,Low,Diabetes,Good,0.685881189,Medium
+809,52,F,28,119,211,139,No,,High,No,Low,,Good,0.383314462,Low
+810,18,F,32,112,278,189,Yes,High,,Yes,Low,Malaria,Poor,,High
+811,57,O,20.7,105,,170,Yes,Moderate,Medium,Yes,,,Average,0.519263447,Medium
+812,81,male,20.4,103,174,103,Yes,,High,No,Medium,Tuberculosis,Poor,0.232949491,
+813,39,F,23.2,,159,153,Yes,High,Medium,No,Low,Diabetes,Good,0.555050083,Medium
+814,77,,50,160,,143,No,Moderate,Low,No,Low,Diabetes,,0.626587359,Medium
+815,81,male,28.5,141,293,,No,,Low,No,Medium,Hypertension,Poor,0.655021275,
+816,89,O,21.2,126,241,154,No,Moderate,High,Yes,,Tuberculosis,Good,0.523881841,Medium
+817,28,male,,118,283,80,Yes,,Medium,Yes,Low,Malaria,,0.348401544,
+818,31,male,25.7,156,,160,No,,High,Yes,,Malaria,Average,0.565739177,Medium
+819,77,O,18.6,104,297,196,Yes,High,Low,Yes,Low,Malaria,Average,0.707008784,High
+820,47,F,16,136,229,182,Yes,Moderate,Medium,,High,Tuberculosis,Average,0.492463973,
+821,52,male,25.7,135,220,149,Yes,Moderate,,No,High,Hypertension,Average,0.611417113,Medium
+822,54,,16.3,141,227,,Yes,,High,No,Low,Hypertension,Average,,Low
+823,22,male,28.9,,192,,Yes,High,High,Yes,Medium,,Poor,0.359369383,
+824,43,male,18,166,239,85,Yes,,,No,Low,,Poor,0.438626366,Medium
+825,79,F,13.8,110,227,81,No,High,High,No,,Tuberculosis,Poor,0.109246299,Low
+826,,male,23.5,153,175,104,,Moderate,Medium,Yes,Medium,Hypertension,Poor,0.354172595,Low
+827,59,,25.7,126,270,90,No,,,Yes,Medium,Heart Disease,,,Low
+828,35,male,27.5,116,194,86,No,,Low,Yes,Low,Heart Disease,Good,0.369483941,Low
+829,57,,25.9,144,212,101,Yes,High,High,Yes,Low,,Poor,0.470755338,Medium
+830,89,F,19.7,118,217,110,Yes,High,Low,Yes,Medium,Heart Disease,Good,0.473919817,Medium
+831,56,O,,109,151,96,No,High,Low,No,High,Heart Disease,Good,0.294988867,Low
+832,31,F,29.8,114,291,135,No,Moderate,Medium,No,High,Heart Disease,Average,,Medium
+833,49,male,19,159,257,161,No,,Medium,Yes,High,Diabetes,Poor,0.445281959,Medium
+834,68,F,24.1,152,179,130,No,High,High,No,Medium,,Good,0.391491258,Low
+835,55,O,,125,,72,No,Moderate,Low,No,,Hypertension,Good,0.266740279,Low
+836,,,26.1,91,289,172,No,High,Low,No,Medium,Heart Disease,,0.394467091,Low
+837,80,F,24,111,193,,No,,Medium,No,High,Malaria,,0.25109934,Low
+838,32,F,24.7,105,,70,No,High,Medium,Yes,Low,Diabetes,Poor,0.199490443,Low
+839,42,O,28.2,107,227,170,,,,No,Medium,Heart Disease,Average,0.483093483,Medium
+840,,F,19.4,158,275,114,Yes,Moderate,Low,No,Medium,Diabetes,Good,0.51922144,Medium
+841,83,F,28.7,,247,95,Yes,,Medium,,High,,Average,0.517911207,Medium
+842,70,male,30.7,119,175,190,Yes,High,High,Yes,Medium,Malaria,Average,0.722434074,High
+843,68,O,33.2,134,298,,,,Low,No,Low,Malaria,Poor,0.606297795,Medium
+844,56,F,14.3,108,197,191,Yes,,Low,,High,,Good,0.614070139,Medium
+845,68,O,24.1,176,215,100,,,Medium,Yes,High,Heart Disease,Poor,0.467615033,Medium
+846,87,F,15.2,123,236,128,Yes,High,High,Yes,Low,,Poor,,Medium
+847,23,F,12.8,102,228,98,No,,Medium,Yes,High,Malaria,Good,0.202377821,Low
+848,84,F,25.7,132,172,175,No,,,No,Medium,Tuberculosis,Poor,0.451532563,Medium
+849,24,male,23,151,230,86,Yes,,Low,Yes,Medium,Tuberculosis,Poor,0.486073455,Medium
+850,68,male,26.5,111,197,93,Yes,,High,Yes,High,Diabetes,Average,0.398436752,Low
+851,89,male,27.4,141,273,178,No,High,High,Yes,Low,Heart Disease,Poor,0.649884622,Medium
+852,59,O,31.2,141,279,160,No,High,High,Yes,Medium,Heart Disease,Good,,
+853,81,O,,125,233,94,No,,High,,,,Poor,0.306741131,Low
+854,,male,39.6,162,169,101,Yes,,High,No,Medium,,Average,0.606739714,Medium
+855,46,O,,108,195,,Yes,Moderate,Medium,Yes,Medium,Malaria,Poor,0.548940772,Medium
+856,50,F,50,127,280,151,No,Moderate,High,No,High,,Poor,0.595932706,Medium
+857,44,F,13.3,159,161,179,Yes,,High,No,,,,0.436118082,Medium
+858,53,F,31.7,168,189,106,No,,Low,Yes,Low,Heart Disease,Average,0.60837481,Medium
+859,46,male,,146,215,95,Yes,Moderate,High,,High,Hypertension,Good,0.421174988,Medium
+860,55,,15.3,109,249,133,Yes,,Low,No,Medium,,Good,0.397330038,Low
+861,74,male,27.1,98,227,141,Yes,,Medium,No,Medium,Diabetes,Average,,Medium
+862,44,O,23.5,121,165,,Yes,High,Medium,Yes,Low,Tuberculosis,Average,0.472347548,Medium
+863,72,F,27.9,93,232,155,Yes,High,High,Yes,Low,,Poor,0.618120507,Medium
+864,50,male,30.1,139,193,122,No,,Medium,Yes,Medium,,Good,0.529176941,Medium
+865,85,O,,210,283,161,No,,,Yes,,Diabetes,Average,0.648462591,Medium
+866,83,O,30.1,,249,168,Yes,Moderate,Medium,Yes,High,Heart Disease,Good,0.841981933,High
+867,,F,25,109,171,80,No,Moderate,High,Yes,Low,Malaria,Poor,0.215437115,Low
+868,22,male,31.8,176,167,100,No,High,High,Yes,Low,Diabetes,,0.560293519,Medium
+869,55,male,24,164,161,169,Yes,,Low,No,Medium,,Good,0.661832185,Medium
+870,30,male,22.6,,272,,No,Moderate,Low,No,Medium,,Good,0.444303428,Medium
+871,48,F,25.1,111,266,84,Yes,High,Low,Yes,Low,Heart Disease,Poor,0.477708503,Medium
+872,64,male,25.5,147,200,,No,High,Low,No,Medium,Hypertension,Average,0.62581692,Medium
+873,69,F,21.7,157,,98,No,High,High,Yes,Low,,Good,0.392700898,Low
+874,73,F,50,,197,183,No,Moderate,Medium,Yes,Low,,Poor,0.507863043,Medium
+875,32,,18.9,123,,176,No,Moderate,High,Yes,,Hypertension,Good,0.301644338,Low
+876,46,O,22.8,166,155,177,No,,Low,No,Low,,Poor,0.412612226,Medium
+877,25,male,28.4,131,233,199,No,,Low,Yes,Medium,Hypertension,Good,,Medium
+878,22,male,24.3,98,202,153,No,High,Medium,Yes,,Diabetes,Good,0.434441936,Medium
+879,46,F,30,96,256,84,Yes,High,Low,Yes,High,Hypertension,Poor,0.470670044,Medium
+880,64,F,,,250,119,Yes,Moderate,High,Yes,Medium,Diabetes,Average,0.572195917,Medium
+881,,male,17.8,108,197,,Yes,Moderate,High,No,Medium,,Poor,0.219740362,Low
+882,62,F,28,120,284,128,Yes,,,Yes,,Heart Disease,Average,0.54213739,Medium
+883,19,male,21.6,124,218,159,No,,High,No,Low,Tuberculosis,Good,0.415629681,Medium
+884,44,O,23.8,146,160,184,No,,High,,High,Heart Disease,Good,0.427090392,
+885,53,F,31.2,174,,,No,Moderate,Medium,Yes,Low,Heart Disease,Poor,0.776652516,High
+886,53,male,19.2,150,280,192,Yes,High,,,Low,Heart Disease,Poor,0.705842452,High
+887,43,F,25.8,120,271,87,Yes,,Low,No,Low,Diabetes,Average,0.439433388,
+888,60,male,24.8,172,,,Yes,,,,Low,Diabetes,Average,0.553811965,Medium
+889,,male,28.5,142,172,187,,Moderate,Low,No,High,Tuberculosis,Average,0.508724382,Medium
+890,86,F,29.3,121,186,177,Yes,,Low,No,High,Diabetes,Poor,0.62148528,Medium
+891,37,O,26.3,155,158,136,No,High,Medium,Yes,Low,Malaria,Good,0.457781503,Medium
+892,28,male,23.2,148,164,147,Yes,Moderate,Low,No,Medium,Diabetes,Poor,0.506774949,Medium
+893,55,,27.4,99,280,,No,,Medium,No,High,Diabetes,Good,0.507472505,Medium
+894,23,male,,91,242,108,Yes,,Low,,Low,Diabetes,,0.582035452,Medium
+895,89,O,24.9,155,166,94,No,Moderate,Medium,No,Medium,,Poor,0.271558789,Low
+896,40,O,23.7,149,298,90,Yes,Moderate,Medium,Yes,Medium,Tuberculosis,Average,0.572866434,Medium
+897,64,F,26.9,177,221,84,Yes,,Medium,Yes,Low,Malaria,Good,,Medium
+898,63,O,25.2,106,298,117,No,High,Low,Yes,High,Diabetes,Poor,0.431260236,Medium
+899,29,F,18.3,105,270,155,,Moderate,Medium,No,Medium,Tuberculosis,Poor,0.338549797,
+900,30,F,26.2,105,160,185,Yes,High,,No,High,Hypertension,Good,0.462916325,Medium
+901,79,O,18.3,135,221,119,No,,High,Yes,High,,Poor,0.289891436,Low
+902,77,F,26.9,128,255,138,Yes,High,Low,Yes,Medium,Diabetes,Good,0.596332018,Medium
+903,60,O,21,120,274,73,No,,High,No,Low,Malaria,Average,0.332754779,Low
+904,85,F,25.2,177,184,147,Yes,,High,Yes,Medium,,Average,0.679335221,
+905,22,O,27,90,,78,,,High,No,Medium,,Good,0.286475627,Low
+906,54,O,37.3,100,163,190,,,Low,No,High,,Average,0.716013971,High
+907,89,F,28.7,174,163,184,Yes,High,Low,No,Low,Hypertension,Good,0.76826535,High
+908,48,male,,93,159,170,Yes,,High,No,High,Tuberculosis,Poor,0.490163912,
+909,26,F,34.4,160,289,166,No,,Low,No,Medium,,Poor,,High
+910,68,O,27.4,115,187,150,Yes,,Medium,No,Low,Heart Disease,Good,0.498325934,Medium
+911,46,male,26.4,139,257,112,No,Moderate,High,Yes,Low,Hypertension,Poor,0.417380816,Medium
+912,57,F,19.7,101,268,164,No,High,Low,Yes,Low,Heart Disease,,0.504997956,Medium
+913,58,F,,170,,75,No,,Low,Yes,Low,Hypertension,Poor,0.393747675,Low
+914,28,F,21.4,164,159,136,Yes,High,High,No,Low,Heart Disease,Poor,0.385585007,Low
+915,40,,23,154,271,169,No,,Low,Yes,Medium,Heart Disease,Good,0.595397944,Medium
+916,18,O,34.4,136,294,81,No,,High,No,Medium,Malaria,Average,0.526357422,Medium
+917,63,F,25.6,142,294,135,No,,Low,No,,,Poor,0.454003032,Medium
+918,38,F,,,264,71,Yes,Moderate,Medium,No,,,Poor,0.416877097,
+919,53,F,31.9,91,,150,No,,High,No,Low,Hypertension,Good,0.464425146,Medium
+920,,,29.8,113,161,,No,Moderate,Medium,Yes,Low,Tuberculosis,Good,0.346698778,
+921,74,F,30,93,,184,,,High,Yes,Medium,Malaria,Average,0.600285086,
+922,18,O,,108,153,157,No,High,Low,Yes,Low,,Poor,0.226688661,Low
+923,80,O,,115,290,75,Yes,,Medium,No,High,,Good,0.621112826,Medium
+924,71,F,22.2,164,247,96,Yes,,Low,Yes,Low,Malaria,Good,0.622309207,Medium
+925,,male,28.9,129,255,151,No,Moderate,,Yes,Low,Diabetes,Good,,Medium
+926,57,,37.6,139,234,157,No,,High,Yes,High,Malaria,Average,0.749869587,High
+927,32,male,35.8,132,270,189,No,,High,No,Medium,,Good,0.711972276,High
+928,38,O,20.1,164,281,93,No,,High,Yes,Medium,Tuberculosis,Average,0.470847223,Medium
+929,64,F,17.8,156,,171,,,High,No,Low,Diabetes,Average,0.58623847,Medium
+930,70,O,,101,168,103,Yes,,Medium,Yes,High,Heart Disease,Poor,0.490873667,Medium
+931,26,F,25.7,,,116,Yes,High,High,No,Medium,Malaria,Poor,0.471309778,Medium
+932,69,,22.5,116,161,93,Yes,Moderate,Low,Yes,Medium,Heart Disease,Average,0.366260117,Low
+933,74,F,28.1,143,230,134,No,High,Medium,Yes,Medium,Diabetes,Poor,0.468092867,Medium
+934,43,F,,155,223,87,No,Moderate,Low,Yes,Low,Diabetes,Poor,0.381925684,
+935,58,F,28.5,138,247,113,,,High,No,High,,Good,0.504913216,Medium
+936,52,F,25.3,210,155,,Yes,Moderate,Low,,Low,Hypertension,Poor,0.483323851,Medium
+937,80,male,28.6,91,285,126,,High,Medium,Yes,Medium,Malaria,Average,,Medium
+938,42,F,20.5,149,274,176,No,,Medium,No,High,Tuberculosis,Poor,0.510143608,Medium
+939,55,male,32.1,143,200,,No,,Medium,No,Low,Tuberculosis,Good,0.727786395,High
+940,19,male,28.5,119,160,185,No,,Low,No,Medium,Heart Disease,Average,0.406290204,
+941,24,F,28.2,173,276,162,No,,Medium,No,Medium,Heart Disease,Poor,0.590087483,Medium
+942,,male,19.4,,289,111,,,Low,Yes,Low,Heart Disease,Average,0.5708231,Medium
+943,34,O,33.5,117,,97,Yes,High,High,Yes,Medium,Malaria,Poor,0.517115353,Medium
+944,60,,24.9,114,151,192,No,High,High,No,Medium,,Good,0.456336956,Medium
+945,,,28.6,99,157,93,No,High,Low,Yes,High,Heart Disease,Poor,0.268673729,Low
+946,68,F,23.4,149,288,175,Yes,,Medium,No,Medium,Diabetes,Average,0.736417444,High
+947,71,F,26.3,,,,No,High,Low,Yes,Low,Heart Disease,Average,0.626692698,
+948,41,,,129,202,122,Yes,,Low,No,High,Diabetes,Average,,Medium
+949,,male,10.9,166,159,169,Yes,High,Low,Yes,Low,Hypertension,Poor,0.53296069,Medium
+950,88,O,27.9,131,261,74,,,High,No,Medium,,Poor,0.405166961,Medium
+951,69,O,34.8,136,157,118,,,Low,No,High,,Poor,0.551314193,Medium
+952,,male,27.7,126,185,167,No,High,High,Yes,High,,Good,,Medium
+953,50,F,20.2,169,255,99,No,Moderate,Low,Yes,High,Malaria,Good,,Medium
+954,66,male,28.2,111,163,141,Yes,High,High,Yes,High,Tuberculosis,Good,0.5916676,Medium
+955,46,male,30.3,146,235,172,No,High,Low,No,Low,Hypertension,Average,0.674756736,Medium
+956,80,male,27.6,173,298,132,No,,Low,Yes,,Malaria,Average,0.656485127,Medium
+957,39,F,24.6,116,,95,No,Moderate,Medium,No,Medium,Diabetes,Average,0.241568133,Low
+958,43,male,23.8,130,,106,No,,Medium,Yes,,Hypertension,Average,0.317226215,
+959,45,F,23.8,,236,76,Yes,,Low,Yes,Medium,,Average,0.554484154,Medium
+960,66,male,,123,284,196,No,Moderate,Low,No,Low,Diabetes,Poor,0.667332828,Medium
+961,88,O,18,210,286,161,Yes,,,No,Medium,Hypertension,,0.679417184,Medium
+962,66,male,23.1,179,278,172,Yes,High,Low,Yes,Low,,Poor,0.873299548,High
+963,37,male,33,178,187,,No,High,Medium,No,Low,Malaria,Good,0.580887652,Medium
+964,80,O,33.2,,193,177,Yes,High,,No,Medium,Diabetes,Good,0.846433348,High
+965,78,F,17.6,101,,181,No,High,Low,Yes,Low,Diabetes,Good,0.562737922,Medium
+966,66,F,19.3,129,193,,No,High,,No,Low,,Good,0.255803648,Low
+967,88,male,23.6,162,223,136,,,Low,Yes,,,Good,0.625532371,Medium
+968,18,O,29.5,,268,177,No,,Low,Yes,Low,Malaria,Average,0.770176766,High
+969,30,F,15.9,179,,180,,High,High,No,High,Malaria,Average,0.573540561,Medium
+970,,male,24.7,162,283,,Yes,High,,Yes,Medium,Malaria,Average,0.781022293,High
+971,73,O,22.6,99,294,193,No,,Low,No,High,,Good,0.611602191,Medium
+972,79,F,31.6,137,200,173,No,Moderate,High,Yes,Low,Heart Disease,,0.800668598,High
+973,,,16.6,109,,136,,,High,No,Medium,,Poor,0.1573465,
+974,47,O,25.5,128,200,76,Yes,,High,No,Low,Diabetes,,0.334224588,Low
+975,,O,23,149,159,179,No,,High,,Medium,Malaria,Good,0.444897478,Medium
+976,66,O,32.3,155,269,103,Yes,,,No,High,Diabetes,Good,0.718677466,High
+977,62,O,28,154,298,175,Yes,,Medium,No,Medium,,Good,0.812960917,High
+978,47,male,22.1,140,219,127,No,Moderate,Medium,Yes,Low,Diabetes,Poor,0.406823912,Medium
+979,33,O,29.3,125,234,78,No,High,Low,Yes,,Tuberculosis,Good,0.436706706,Medium
+980,57,F,23.1,113,206,117,No,High,,No,,Heart Disease,Poor,0.264593422,Low
+981,36,F,30,210,275,184,Yes,Moderate,High,,High,Diabetes,Poor,0.658330197,Medium
+982,35,male,23.8,91,188,110,No,,Medium,No,Low,Diabetes,Average,0.22014206,Low
+983,18,F,30.3,120,182,,Yes,High,Low,No,Medium,Hypertension,Good,0.59225393,Medium
+984,,F,,,,94,No,High,Low,Yes,High,Diabetes,Poor,0.372511752,Low
+985,83,O,,167,206,185,No,,Low,,Medium,Tuberculosis,Good,0.972378037,High
+986,55,F,24.7,,245,147,Yes,Moderate,Medium,No,,Heart Disease,Average,0.678435757,Medium
+987,68,male,26.9,118,197,177,Yes,High,Low,No,Medium,Hypertension,Average,0.634605149,Medium
+988,80,O,22.6,104,191,94,No,High,Low,No,Medium,,Poor,0.24454946,Low
+989,21,O,25,,,108,No,,Low,,Medium,,Average,0.298414789,Low
+990,18,male,11.5,117,223,188,No,,High,No,Medium,Heart Disease,Average,0.255782915,Low
+991,25,O,27.3,173,259,148,No,,Medium,No,Low,,Average,0.554210656,Medium
+992,46,O,31.7,113,181,149,No,,High,,,Tuberculosis,Good,0.507043331,
+993,72,male,27,110,175,96,Yes,Moderate,High,,High,Diabetes,Good,0.335396746,Low
+994,20,,18.4,99,174,173,Yes,High,Medium,No,Medium,Heart Disease,Poor,,Low
+995,49,male,21,167,224,143,,Moderate,High,Yes,Low,Hypertension,,0.566552316,Medium
+996,27,male,,107,172,137,Yes,Moderate,Low,No,,Diabetes,,0.30527955,Low
+997,,,29.9,177,206,97,No,Moderate,Low,No,Low,,Average,0.419108702,Medium
+998,72,F,20,103,275,192,,,Low,Yes,Low,,Poor,0.642918232,Medium
+999,49,O,24.9,123,236,,Yes,,Low,No,Low,Hypertension,Average,0.557075173,Medium
+1000,67,,24.2,147,180,99,Yes,High,Medium,Yes,Low,Tuberculosis,Poor,0.357690163,Low
+1001,24,,,165,213,91,No,High,High,No,Medium,Hypertension,,0.578136626,Medium
+1002,25,O,,,182,72,Yes,Moderate,High,Yes,High,Heart Disease,Average,0.344502675,Low
+1003,82,male,29,159,151,170,No,Moderate,Low,,High,Hypertension,Average,,Medium
+1004,74,male,27.7,125,167,174,Yes,Moderate,Low,Yes,Medium,,Average,,Medium
+1005,84,O,31.8,134,233,71,No,,High,No,High,Tuberculosis,Good,0.395280835,Low
+1006,76,,23.8,125,184,123,Yes,,Medium,No,,Tuberculosis,Good,0.441375535,Medium
+1007,89,F,34.3,111,263,75,No,,High,Yes,Low,,,0.525306628,Medium
+1008,71,,15.1,167,295,176,Yes,High,Low,Yes,High,Hypertension,Poor,0.799115492,High
+1009,84,F,29.3,169,,,No,Moderate,Low,No,Low,Heart Disease,Good,0.759438797,High
+1010,68,O,20.7,150,237,71,No,High,Medium,,Low,,Average,,Low
+1011,25,male,22.5,145,221,,Yes,,High,,High,Diabetes,Average,0.522526003,Medium
+1012,51,O,27.8,178,274,71,No,Moderate,Medium,No,Medium,,,0.465334116,Medium
+1013,,,27.8,122,,162,No,,Medium,No,High,Hypertension,,0.488178758,
+1014,49,male,28,134,,170,Yes,Moderate,Low,Yes,High,Malaria,Average,0.58773301,Medium
+1015,63,O,18.1,125,287,166,Yes,Moderate,High,No,High,Heart Disease,Poor,0.550891599,
+1016,,O,32.2,109,236,180,No,High,Low,Yes,,Heart Disease,Poor,0.593071082,Medium
+1017,85,O,20.5,107,,,Yes,High,High,No,Medium,,Good,0.321888144,Low
+1018,,F,21.2,127,162,196,Yes,,Low,Yes,,Tuberculosis,Average,0.657346511,Medium
+1019,71,F,28.2,156,189,173,Yes,High,Low,Yes,Low,,,0.801124311,High
+1020,31,O,23.6,112,238,70,No,High,High,No,Low,Malaria,Poor,0.18927862,Low
+1021,72,male,26.5,105,217,,No,High,High,Yes,High,Diabetes,Good,0.285856398,Low
+1022,65,male,14.2,148,191,109,No,Moderate,,Yes,Low,Diabetes,Good,0.388020035,Low
+1023,24,F,26.4,158,296,101,No,High,High,Yes,Medium,Diabetes,Good,0.577871761,Medium
+1024,24,male,50,157,243,86,No,,Low,Yes,Low,Heart Disease,Poor,0.426627544,Medium
+1025,50,F,22.5,110,168,195,No,,High,No,Low,,,0.290402887,
+1026,40,O,14.6,167,172,77,No,Moderate,,Yes,Low,,Average,0.330484473,Low
+1027,36,F,,167,203,,Yes,High,Low,No,High,,Good,0.621090631,Medium
+1028,36,F,24.8,159,214,111,No,Moderate,Low,Yes,Low,Malaria,Poor,0.433961431,Medium
+1029,53,O,23.2,,289,167,No,,Medium,No,Medium,Diabetes,Good,0.503625961,Medium
+1030,46,male,15.8,105,173,189,Yes,,High,,Medium,Tuberculosis,Poor,0.35399023,Low
+1031,77,F,33,170,183,156,Yes,Moderate,Low,No,Medium,Tuberculosis,Average,0.878150029,High
+1032,19,F,21.8,176,202,123,Yes,High,Medium,Yes,Medium,,Good,0.595194916,Medium
+1033,18,O,23.9,103,285,153,,High,Low,,Low,Hypertension,Poor,0.386280997,Low
+1034,64,male,13,150,,94,Yes,Moderate,Medium,No,High,Tuberculosis,Good,0.365021818,
+1035,86,F,33,160,206,136,No,,,Yes,Medium,Tuberculosis,Poor,0.664693768,
+1036,,O,22.7,135,261,115,No,Moderate,Low,No,Medium,,Poor,0.359097501,Low
+1037,28,F,25.5,121,154,91,No,High,Medium,Yes,,Malaria,Poor,0.254889033,Low
+1038,19,O,30.6,104,162,77,Yes,High,Medium,Yes,High,Tuberculosis,Good,0.452273119,Medium
+1039,84,male,,133,232,108,Yes,Moderate,High,No,Medium,,Poor,0.399285878,Low
+1040,29,male,29.8,,178,118,No,,High,Yes,Medium,,Average,0.312652502,Low
+1041,37,male,14.7,130,152,115,No,Moderate,Medium,Yes,High,Tuberculosis,Good,0.258386824,Low
+1042,22,male,27.8,143,239,107,No,,High,Yes,Medium,,Average,0.430853245,Medium
+1043,54,F,32.9,133,253,123,Yes,,Medium,No,Medium,Hypertension,Average,0.665739097,Medium
+1044,55,F,22.1,94,272,161,No,Moderate,High,Yes,Low,Heart Disease,Good,0.544400923,Medium
+1045,26,male,30.6,,225,109,Yes,Moderate,,Yes,,,Poor,,Medium
+1046,70,male,34.2,176,279,103,No,,High,Yes,Low,,Average,0.687151345,Medium
+1047,,male,23.7,167,257,165,Yes,,Low,No,Low,Tuberculosis,Good,0.808553873,High
+1048,41,F,23.3,168,231,148,No,,Low,Yes,High,,Poor,0.544145805,Medium
+1049,47,male,20.5,132,226,,Yes,,High,No,Low,Malaria,Good,0.535158148,Medium
+1050,76,male,22.5,120,151,86,Yes,High,Medium,Yes,Medium,Diabetes,Good,0.362383539,Low
+1051,31,male,,106,276,179,Yes,Moderate,Low,No,Low,Diabetes,Good,0.562297711,Medium
+1052,26,O,20.5,172,284,121,Yes,,Low,No,High,Hypertension,Poor,0.59511181,Medium
+1053,57,male,31,143,175,187,Yes,Moderate,High,,Medium,,Average,0.756320246,High
+1054,83,O,21.1,151,237,78,Yes,,,Yes,Medium,Malaria,Average,0.461922949,Medium
+1055,42,O,26.3,176,165,102,No,Moderate,Medium,Yes,Medium,Tuberculosis,Good,0.520674997,Medium
+1056,39,male,,121,222,182,No,Moderate,High,Yes,Medium,Tuberculosis,Good,0.513722718,Medium
+1057,21,O,32.5,129,181,154,No,,Medium,No,Low,Heart Disease,Poor,0.48006563,Medium
+1058,43,male,22.5,102,164,79,No,,,Yes,Low,Hypertension,Good,0.22003841,Low
+1059,,F,26.9,173,290,75,Yes,Moderate,High,Yes,Medium,Malaria,Good,,Medium
+1060,46,F,,124,154,184,No,Moderate,High,No,,Malaria,Good,0.419407498,Medium
+1061,54,F,32.4,94,,,Yes,Moderate,Low,Yes,Medium,Tuberculosis,Average,0.825638976,High
+1062,87,F,22.4,162,201,134,Yes,High,Low,Yes,,Heart Disease,Good,0.645141499,Medium
+1063,35,O,21.9,118,226,89,,,Low,No,Medium,,Average,,Low
+1064,59,male,19.7,159,259,126,No,High,High,No,Low,Heart Disease,,0.374989486,Low
+1065,58,,36.2,,292,115,Yes,High,Low,Yes,Medium,,Poor,0.756656628,High
+1066,55,male,31.9,111,255,79,,,Low,No,High,Malaria,,0.472795969,Medium
+1067,51,F,24.8,155,276,182,No,,Low,Yes,Medium,Diabetes,Average,0.741705676,High
+1068,34,F,34.7,134,156,81,No,High,High,Yes,High,Tuberculosis,Average,0.452993556,
+1069,,male,,,189,80,No,,High,Yes,High,Hypertension,Average,0.343844009,Low
+1070,,F,28.6,178,248,187,No,Moderate,High,Yes,Medium,,Good,0.675331877,Medium
+1071,44,male,25.1,161,292,108,Yes,Moderate,Low,Yes,High,,Average,,Medium
+1072,74,male,27,90,234,122,Yes,High,Medium,No,High,Hypertension,Average,0.376953104,Low
+1073,48,male,26.5,173,214,125,No,High,Low,No,Low,,Average,0.46151949,Medium
+1074,23,male,22.9,133,281,173,Yes,,Low,Yes,Low,,Good,0.647571518,Medium
+1075,57,male,30.5,176,160,198,No,,High,No,High,Diabetes,Good,,High
+1076,29,male,28.6,164,257,125,Yes,High,,No,Medium,,Good,0.601302753,Medium
+1077,,male,30.1,128,175,187,Yes,High,Low,Yes,High,Malaria,Poor,0.804435033,High
+1078,88,F,26.6,,234,,Yes,Moderate,Low,No,Medium,,Good,0.521555187,Medium
+1079,27,male,20.5,177,272,81,Yes,Moderate,Medium,No,Low,Heart Disease,Average,0.446422779,Medium
+1080,62,male,33.5,164,293,104,Yes,,Medium,Yes,Medium,Hypertension,Good,,High
+1081,34,F,23.7,118,217,146,Yes,Moderate,High,Yes,High,Tuberculosis,Good,0.538400052,Medium
+1082,43,F,26.8,210,253,171,Yes,,Medium,,High,Diabetes,Average,0.675440426,Medium
+1083,79,F,,179,229,156,Yes,,Medium,Yes,High,Malaria,Good,0.8891012,High
+1084,63,male,26.8,105,202,121,Yes,,High,,High,Tuberculosis,Poor,0.368491787,
+1085,,O,,,,149,Yes,Moderate,Medium,Yes,High,,Good,,
+1086,19,O,30.4,135,193,91,Yes,,,Yes,Medium,,Poor,0.559826201,Medium
+1087,,,23.9,156,,144,Yes,High,Medium,No,High,Tuberculosis,Poor,0.694361614,
+1088,82,O,33.1,154,239,127,,Moderate,High,Yes,,,,0.667231471,
+1089,68,F,23.7,147,250,162,,High,Low,,High,,Average,0.604442688,Medium
+1090,70,male,26.7,142,246,172,Yes,,Medium,No,Medium,Tuberculosis,Good,0.74009978,
+1091,53,,23.1,90,158,,Yes,High,Low,Yes,High,Diabetes,Poor,0.265466116,Low
+1092,43,male,21.6,170,161,197,Yes,Moderate,Low,No,High,,Poor,0.599779541,Medium
+1093,46,O,,155,218,124,Yes,High,Medium,No,,Diabetes,Good,0.68640933,Medium
+1094,38,male,40.6,118,177,175,Yes,,Medium,No,High,Malaria,Average,0.681557382,
+1095,28,O,23.2,173,205,131,Yes,,,Yes,Medium,,Average,0.548015096,Medium
+1096,57,male,31.1,159,248,159,No,Moderate,High,No,High,Heart Disease,Poor,0.733501535,High
+1097,28,male,23.4,97,259,,No,Moderate,Low,No,Low,Malaria,Average,0.38641521,Low
+1098,53,O,24.9,118,226,146,No,Moderate,High,Yes,High,Tuberculosis,Good,0.552036878,Medium
+1099,76,male,33.8,140,252,188,,,Low,No,Medium,,Average,0.948991593,High
+1100,56,male,19.6,122,255,,Yes,High,Low,No,Low,Malaria,Good,0.406250617,Medium
+1101,71,male,,210,258,158,Yes,High,High,No,Medium,Diabetes,Poor,0.497556972,Medium
+1102,72,O,24.6,149,261,199,No,Moderate,High,No,High,Tuberculosis,Good,0.721028648,High
+1103,41,O,,124,207,162,Yes,High,High,No,Low,Malaria,Poor,0.478804823,Medium
+1104,39,male,27.3,158,,183,,High,Medium,Yes,Medium,,Good,0.735223483,High
+1105,,male,26.8,165,224,97,No,Moderate,Low,No,Low,Diabetes,Good,0.498692679,Medium
+1106,73,O,25.2,173,191,102,No,Moderate,Low,Yes,Low,Diabetes,Average,0.463881056,Medium
+1107,50,O,28.9,109,217,,Yes,,,No,Medium,Heart Disease,Good,0.44474844,
+1108,53,male,10.4,162,,170,Yes,,,Yes,Low,Hypertension,Poor,0.509625292,
+1109,,male,21.2,128,220,92,Yes,,,Yes,Medium,Heart Disease,Good,0.431509276,Medium
+1110,,male,24.5,210,205,,Yes,,High,,,,Poor,,Medium
+1111,43,,28.5,108,254,83,,High,High,No,Low,Hypertension,Poor,0.277227484,Low
+1112,83,O,32.4,134,250,160,Yes,High,High,No,Low,Diabetes,Good,0.849038698,High
+1113,57,F,20.6,132,200,146,Yes,,Medium,,High,Heart Disease,Average,,Medium
+1114,,O,,102,223,154,No,,High,No,High,Tuberculosis,Good,0.491895046,Medium
+1115,18,O,22.7,102,270,178,Yes,Moderate,Low,No,Medium,,,0.621593305,Medium
+1116,78,O,,149,292,,Yes,High,High,Yes,Low,Diabetes,Average,0.555807675,Medium
+1117,60,O,50,,292,191,No,High,Low,Yes,Medium,,Poor,0.75397939,High
+1118,59,O,24,175,154,176,No,,High,Yes,High,,Good,0.617401228,Medium
+1119,42,O,30.6,141,232,123,Yes,High,,No,High,Hypertension,,0.593107616,Medium
+1120,56,O,23,,200,112,No,Moderate,Low,No,High,Malaria,Average,0.407953406,Medium
+1121,52,F,23.1,175,159,,,,Low,Yes,High,Tuberculosis,Poor,0.573425514,Medium
+1122,20,,50,132,289,184,,High,Low,No,Medium,,Average,0.763243765,High
+1123,61,male,21.2,172,153,168,No,,Low,No,Low,Hypertension,Poor,,Medium
+1124,,,26.2,161,244,116,Yes,High,Medium,Yes,Medium,Hypertension,Good,0.568279799,Medium
+1125,29,F,50,161,295,140,Yes,Moderate,Low,Yes,Low,Tuberculosis,Average,0.620483098,Medium
+1126,36,F,34.1,131,229,136,Yes,,High,,High,Tuberculosis,Good,0.636694329,Medium
+1127,61,F,,179,185,131,Yes,High,High,No,Low,Heart Disease,Average,0.689998068,Medium
+1128,76,O,38.8,115,174,178,No,,,Yes,High,,Average,0.707353745,High
+1129,66,male,31.7,,247,106,Yes,,Low,No,Medium,Diabetes,,0.651867378,Medium
+1130,78,O,19.4,132,250,188,Yes,Moderate,High,Yes,Low,,Average,0.717768954,High
+1131,34,male,28.3,166,158,155,Yes,,Medium,Yes,Medium,Diabetes,Good,0.65388042,Medium
+1132,74,male,20.4,117,210,,Yes,High,High,Yes,,Hypertension,Good,0.639319792,Medium
+1133,72,F,32.9,98,202,121,No,,Medium,No,Medium,Heart Disease,,0.410668559,Medium
+1134,,O,19.5,109,295,160,No,,Medium,Yes,High,Heart Disease,Good,0.531079715,Medium
+1135,29,F,19.3,145,212,102,No,High,Low,Yes,High,Diabetes,,0.353617107,Low
+1136,79,O,17,172,270,150,Yes,Moderate,Medium,No,,,Good,0.681690944,Medium
+1137,25,male,22.6,128,254,111,No,,High,Yes,Medium,Diabetes,Average,0.39819243,Low
+1138,38,F,21.6,140,153,181,No,,High,No,Medium,Malaria,Good,0.455270166,Medium
+1139,87,F,18.7,101,242,195,Yes,High,Low,No,Low,,Average,0.618281753,Medium
+1140,89,male,,168,177,175,No,,Low,No,,,Poor,0.703738665,High
+1141,42,male,27.6,144,229,194,Yes,,Medium,Yes,Medium,,Average,0.671448248,Medium
+1142,29,male,27.1,167,225,182,No,High,Low,Yes,Medium,Hypertension,Good,0.660968471,Medium
+1143,32,F,32.9,100,265,133,No,,High,No,Medium,Tuberculosis,Average,,Medium
+1144,76,O,50,210,218,192,No,High,High,No,Medium,,Poor,0.470499821,Medium
+1145,43,,21.3,131,,183,No,Moderate,Low,,High,Malaria,Average,0.485526091,Medium
+1146,43,O,16.5,116,150,89,Yes,,Low,Yes,High,Tuberculosis,Average,0.274962056,Low
+1147,64,F,21,100,,,Yes,,,No,High,Hypertension,Good,0.348778564,Low
+1148,49,F,32.5,127,166,88,No,High,Medium,No,Medium,Malaria,Good,0.450336945,Medium
+1149,27,male,18.7,132,261,189,Yes,,Medium,No,,Tuberculosis,,0.52730532,Medium
+1150,33,O,26.8,108,240,107,No,High,,Yes,High,Hypertension,Poor,0.337250238,Low
+1151,88,F,30.2,153,237,162,No,Moderate,Medium,No,Low,,Average,0.690902847,Medium
+1152,34,F,26.4,95,239,174,No,,Medium,Yes,Low,Tuberculosis,Poor,0.469468195,Medium
+1153,40,male,27,135,198,169,No,High,Medium,,High,Diabetes,Poor,0.439010225,
+1154,43,,28.3,131,187,159,No,,Medium,No,High,Malaria,Poor,0.380479659,Low
+1155,24,O,26.9,154,299,113,No,High,High,No,,Malaria,,0.478900435,Medium
+1156,31,F,33,,281,145,Yes,High,Low,No,Medium,,Poor,0.773596224,High
+1157,24,O,19.8,148,208,148,Yes,High,High,Yes,Low,Malaria,Average,0.515010532,Medium
+1158,26,,26.2,141,217,142,No,Moderate,Medium,,Low,Malaria,Poor,0.46377673,Medium
+1159,65,O,,136,279,165,Yes,,Low,Yes,Low,Tuberculosis,Poor,0.703840159,High
+1160,89,male,14.6,96,198,158,No,,Low,No,High,Heart Disease,Average,0.380964908,Low
+1161,76,F,24.6,100,275,172,Yes,High,Low,Yes,Medium,Diabetes,Good,0.716182789,High
+1162,56,O,27.7,150,260,75,Yes,High,,,Low,,Good,,Medium
+1163,35,male,33.2,157,197,191,Yes,Moderate,Low,No,Low,Diabetes,Average,,High
+1164,,,37.1,114,200,185,No,Moderate,High,No,Medium,,Average,0.702078818,High
+1165,34,O,31.6,101,192,131,Yes,,High,Yes,High,Hypertension,,,Medium
+1166,,F,28.6,115,247,158,No,High,Medium,Yes,High,Tuberculosis,Good,0.515513726,Medium
+1167,48,F,50,101,273,165,No,Moderate,Medium,Yes,Low,Malaria,Good,0.485372601,Medium
+1168,41,male,,132,,195,No,High,Low,No,Low,Malaria,Average,0.444475889,Medium
+1169,77,F,24.3,140,260,159,Yes,High,Low,Yes,,Heart Disease,Poor,0.686656994,Medium
+1170,62,F,31.5,126,292,,Yes,,Medium,Yes,Low,Diabetes,Average,0.863989119,High
+1171,20,F,29.5,135,176,,Yes,,High,No,Medium,Diabetes,Good,0.622222021,Medium
+1172,54,,18.6,142,262,,No,,High,,Low,Diabetes,Poor,0.479600011,Medium
+1173,60,O,28.1,177,235,161,No,Moderate,Medium,,Low,Malaria,Average,0.6406304,Medium
+1174,57,,27.6,169,263,139,Yes,High,High,No,Low,Diabetes,Good,0.673923504,Medium
+1175,72,male,26.7,102,,92,No,Moderate,Medium,Yes,High,,Average,0.399466231,Low
+1176,56,male,24.9,,198,127,Yes,Moderate,Medium,No,Medium,,Poor,0.515982406,Medium
+1177,32,O,28.3,,225,115,Yes,,Low,No,Medium,Malaria,Good,0.580711834,Medium
+1178,21,,28.5,146,204,91,Yes,High,Low,Yes,High,Tuberculosis,Average,0.508421405,
+1179,42,F,21.8,93,205,77,Yes,,Medium,No,High,Hypertension,Poor,0.226088752,Low
+1180,30,O,27.3,164,244,192,No,,Low,No,High,Tuberculosis,Poor,,Medium
+1181,50,O,24.1,138,193,,Yes,High,Medium,No,Medium,Tuberculosis,Average,0.383300646,Low
+1182,33,male,17.6,96,236,147,Yes,,High,Yes,Low,Hypertension,Poor,,Low
+1183,,male,22.2,100,233,108,Yes,Moderate,High,No,High,Tuberculosis,Good,0.358513845,Low
+1184,,,17.2,143,165,106,Yes,,High,No,High,,Poor,0.292674278,Low
+1185,72,F,29.9,176,298,144,Yes,,High,,High,Malaria,Average,0.875698445,High
+1186,59,male,26.8,134,294,187,Yes,Moderate,Medium,Yes,Low,Heart Disease,Good,0.833354373,High
+1187,51,male,23.2,112,186,,Yes,Moderate,High,No,Low,Hypertension,,0.486282137,
+1188,47,F,32.1,117,226,100,,,High,No,High,Malaria,Poor,0.44061388,Medium
+1189,30,male,25.3,146,296,192,No,,High,No,Low,Diabetes,Good,0.586143718,Medium
+1190,30,F,17.8,115,194,123,,High,High,Yes,High,,Good,0.27001549,Low
+1191,35,F,22.8,114,,103,No,Moderate,Medium,No,Low,Heart Disease,Poor,0.361042081,Low
+1192,49,,33.2,143,211,191,Yes,,High,,Medium,,Good,0.808383291,
+1193,56,O,21.7,118,249,182,No,High,Low,Yes,Medium,,Average,0.602740916,Medium
+1194,63,O,26.4,,201,131,No,High,Low,No,Low,Diabetes,Poor,0.464972678,Medium
+1195,46,O,28.7,125,168,,No,Moderate,Low,No,Medium,Heart Disease,,0.271819219,
+1196,79,F,27.9,103,258,115,Yes,High,Low,,Medium,,Poor,0.483461904,Medium
+1197,79,F,37.2,167,193,125,No,,Low,No,Medium,Diabetes,Average,,
+1198,74,O,19.1,124,156,187,No,High,Low,No,High,Hypertension,Average,,Medium
+1199,33,male,19.6,,266,182,Yes,Moderate,Medium,Yes,Low,Diabetes,Good,0.643196982,Medium
+1200,73,F,19.2,106,217,113,No,Moderate,Low,No,Low,Tuberculosis,Poor,0.247790974,
+1201,31,F,25.9,116,199,90,,High,High,,Low,Hypertension,Average,0.230114153,Low
+1202,41,F,26.8,111,184,73,No,,High,,High,,,0.165125815,Low
+1203,59,male,19.7,159,259,126,No,High,High,No,Low,Heart Disease,,0.374989486,Low
+1204,72,male,27,110,175,96,Yes,Moderate,High,,High,Diabetes,Good,0.335396746,Low
+1205,46,O,25.4,,150,128,Yes,Moderate,High,Yes,Medium,Tuberculosis,Average,0.401551848,Medium
+1206,77,,19,138,284,99,,High,Low,No,,Hypertension,Good,0.40937221,Medium
+1207,24,F,26.4,158,296,101,No,High,High,Yes,Medium,Diabetes,Good,0.577871761,Medium
+1208,69,O,21.6,114,282,152,,,High,Yes,Low,Heart Disease,Average,0.498774551,Medium
+1209,84,F,29.2,93,254,199,No,High,,No,Medium,Heart Disease,Good,,Medium
+1210,18,O,25.6,136,269,181,Yes,Moderate,Low,Yes,High,,,0.713104876,High
+1211,43,F,,155,223,87,No,Moderate,Low,Yes,Low,Diabetes,Poor,0.381925684,
+1212,75,F,35.6,142,,116,Yes,,Medium,,High,,Average,0.609866421,
+1213,74,male,27.7,125,167,174,Yes,Moderate,Low,Yes,Medium,,Average,,Medium
+1214,20,O,21.2,100,254,134,Yes,Moderate,Low,No,,Malaria,Average,0.387205431,Low
+1215,88,F,22.3,163,164,,,High,Low,No,High,Malaria,Average,0.623059902,Medium
+1216,39,O,22.6,,286,95,Yes,Moderate,High,No,High,,,0.402591584,Medium
+1217,77,O,30.5,125,,87,Yes,High,Medium,No,Low,,Average,0.553761848,Medium
+1218,22,O,50,117,202,178,Yes,Moderate,High,Yes,Medium,Heart Disease,Good,0.47182834,Medium
+1219,57,F,19.7,101,268,164,No,High,Low,Yes,Low,Heart Disease,,0.504997956,Medium
+1220,79,F,27.9,103,258,115,Yes,High,Low,,Medium,,Poor,0.483461904,Medium
+1221,69,,22.5,116,161,93,Yes,Moderate,Low,Yes,Medium,Heart Disease,Average,0.366260117,Low
+1222,30,F,26.2,105,160,185,Yes,High,,No,High,Hypertension,Good,0.462916325,Medium
+1223,64,O,23.4,109,158,178,,High,Medium,No,Medium,Heart Disease,Average,0.509902923,
+1224,85,F,25.2,177,184,147,Yes,,High,Yes,Medium,,Average,0.679335221,
+1225,82,O,17.7,172,159,174,Yes,,Medium,Yes,Low,Heart Disease,Good,0.749835881,High
+1226,76,O,30.3,,194,86,,High,Medium,No,High,Heart Disease,Poor,0.379491964,Low
+1227,18,,26.4,153,272,166,No,Moderate,Medium,,High,Malaria,Poor,0.549306186,Medium
+1228,84,O,18.9,210,194,182,Yes,High,Low,No,Low,Hypertension,Poor,0.685490752,Medium
+1229,,male,21.2,128,220,92,Yes,,,Yes,Medium,Heart Disease,Good,0.431509276,Medium
+1230,52,male,28.6,154,244,105,No,,Low,Yes,,Malaria,Average,0.53099427,Medium
+1231,55,male,31.9,111,255,79,,,Low,No,High,Malaria,,0.472795969,Medium
+1232,70,O,27.3,136,266,,Yes,Moderate,,Yes,High,Hypertension,Average,0.785931766,High
+1233,61,O,22.7,141,218,133,Yes,Moderate,Low,No,Low,Diabetes,Good,,Medium
+1234,30,male,25.8,,228,159,,,Low,Yes,High,Tuberculosis,Poor,0.557880899,Medium
+1235,31,male,29.9,137,269,116,Yes,High,Low,No,High,Heart Disease,Good,0.55954239,Medium
+1236,59,F,23.6,138,253,,No,Moderate,,Yes,High,Diabetes,Good,0.481986878,Medium
